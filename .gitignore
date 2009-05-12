@@ -1,0 +1,20 @@
+# Ignore editor journal files
+*~
+*#*
+# Ignore databases
+*.db
+*.db.lock
+*.db/*
+# Other temporary files
+*.gc
+*.gjl
+*.o
+plc_*_0999_*
+*.a
+pwrp_cnf_*.dat
+ld_appl_*.txt
+ld_boot_*.dat
+ld_node_*.dat
+*.dbs
+plc_*.opt_template
+plc_v*.dat
