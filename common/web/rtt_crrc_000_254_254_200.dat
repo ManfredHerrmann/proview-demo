@@ -1,0 +1,223 @@
+
+
+RTT CODE LIST							19-JAN-2007 14:30
+								System		 pwrdemo
+								Volume		 VolPwrDemo
+								Descriptor	 wb:Lists-RttCodeList
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-TI1-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-LI1-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-PI1-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-FI1-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-M1-W-Motor-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-M2-W-Motor-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-MID1-W-Motor-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+
+
+
+
+
+
+								- 1 -
+RTT CODE LIST
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-F1-W-Motor-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-Base-Simulate-W-P1-W-Motor-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-ABB-Plc-W-M1-W-ACS800-W-Parameter
+if ( d1 && !d2 && !d3) {
+  /* Read */
+  OI1 = 0x6000 + ((I1 & 0xff00) >> 8);
+  OI2 = (I1 & 0xff) << 8;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else if ( d2 && !d1 && !d3) {
+  /* Write */
+  OI1 = 0x7000 + ((I1 & 0xff00) >> 8);
+  OI2 = (I1 & 0xff) << 8;
+  OI3 = I2;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else if ( d3 && !d1 && !d2) {
+  /* Write backup parameter*/
+  OI1 = 0x7000 + ((I7 & 0xff00) >> 8);
+  OI2 = (I7 & 0xff) << 8;
+  OI3 = I8;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else {
+  OI1 = 0;
+  OI2 = 0;
+  OI3 = 0;
+} 
+
+
+ _Obj_ Demo-Components-ABB-Plc-W-F1-W-ACS800-W-Parameter
+if ( d1 && !d2 && !d3) {
+  /* Read */
+  OI1 = 0x6000 + ((I1 & 0xff00) >> 8);
+  OI2 = (I1 & 0xff) << 8;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else if ( d2 && !d1 && !d3) {
+  /* Write */
+  OI1 = 0x7000 + ((I1 & 0xff00) >> 8);
+  OI2 = (I1 & 0xff) << 8;
+  OI3 = I2;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else if ( d3 && !d1 && !d2) {
+  /* Write backup parameter*/
+  OI1 = 0x7000 + ((I7 & 0xff00) >> 8);
+  OI2 = (I7 & 0xff) << 8;
+  OI3 = I8;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else {
+  OI1 = 0;
+  OI2 = 0;
+  OI3 = 0;
+} 
+
+
+ _Obj_ Demo-Components-ABB-Plc-W-P1-W-ACS800-W-Parameter
+if ( d1 && !d2 && !d3) {
+  /* Read */
+  OI1 = 0x6000 + ((I1 & 0xff00) >> 8);
+  OI2 = (I1 & 0xff) << 8;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else if ( d2 && !d1 && !d3) {
+  /* Write */
+  OI1 = 0x7000 + ((I1 & 0xff00) >> 8);
+  OI2 = (I1 & 0xff) << 8;
+  OI3 = I2;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else if ( d3 && !d1 && !d2) {
+  /* Write backup parameter*/
+  OI1 = 0x7000 + ((I7 & 0xff00) >> 8);
+  OI2 = (I7 & 0xff) << 8;
+  OI3 = I8;
+  OI4 = I5;
+  OI5 = (I3 & 0xf000) >> 12;
+  OI6 = (I4 & 0xff00) >> 8;
+}
+else {
+  OI1 = 0;
+  OI2 = 0;
+  OI3 = 0;
+} 
+
+
+ _Obj_ Demo-Components-ABB-Sim-W-M1-W-MotorSim-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-ABB-Sim-W-F1-W-MotorSim-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Components-ABB-Sim-W-P1-W-MotorSim-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+
+
+
+
+
+
+
+								- 2 -
+RTT CODE LIST
+
+
+ _Obj_ Demo-Process-LevelControl-Simulate-W-CArit5
+OA1 += 0.001 * A1 * A2;
+if ( OA1 > 2)
+  OA1 = 2;
+if ( OA1 < 0)
+  OA1 = 0;
+
+
+ _Obj_ Demo-Process-LevelControl-Simulate-W-P1-W-Motor-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+ _Obj_ Demo-Process-LevelControl-Simulate-W-LC1-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 3 -

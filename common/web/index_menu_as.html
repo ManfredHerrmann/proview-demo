@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="pwr_css.css">
+    <title>Menu</title>
+  </head>
+  <body>
+    <h1>pwrdemo</h1><br>
+    <h2></h2>
+    <hr>
+
+    <a href="pwr_login.html" target="right">Login</a><br>
+    <a href="javascript:open_applet('pwr_navigator.html','Navigator',1,400,600)">Navigator</a><br>
+    <a href="javascript:open_applet('pwr_events.html','AlarmandEventlist',1,600,600)">Alarm and Event list</a><br>
+    <hr>
+    <a href="javascript:open_applet('demo_proc_levelcontrol.html','LevelControl',1,720,720)">LevelControl</a><br>
+    <hr>
+
+  </body>
+</html>
+<script language="JavaScript">
+function open_applet(url,name,resizable,width,height)
+{
+  var win = window.open(url, name, 'resizable='+resizable+',menubar=no,scrollbars=no,location=no,toolbar=no,width='+width+',height='+height+',directories=no');
+}
+</script>

@@ -1,0 +1,8557 @@
+
+
+RTT PLCMODULE LIST						19-JAN-2007 14:30
+								System		 pwrdemo
+								Volume		 VolPwrDemo
+								Descriptor	 wb:Lists-RttPlcList
+
+
+Demo-Ge-Dynamics-Plc-W
+
+
+    Signals 
+    ------- 
+     Demo-Ge-Actions-PopupMenu-Dv1
+     Demo-Ge-Dynamics-Demo1-Dv1
+     Demo-Ge-Dynamics-Demo1-Dv2
+     Demo-Ge-Dynamics-Demo1-Dv3
+     Demo-Ge-Dynamics-DigColor-Slider
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Ge-Dynamics-Plc-W-CSub0-W
+
+
+    Signals 
+    ------- 
+     Demo-Ge-Dynamics-DigColor-Dv01
+     Demo-Ge-Dynamics-DigColor-Dv02
+     Demo-Ge-Dynamics-DigColor-Dv03
+     Demo-Ge-Dynamics-DigColor-Dv04
+     Demo-Ge-Dynamics-DigColor-Dv05
+     Demo-Ge-Dynamics-DigColor-Dv06
+     Demo-Ge-Dynamics-DigColor-Dv07
+     Demo-Ge-Dynamics-DigColor-Dv08
+     Demo-Ge-Dynamics-DigColor-Dv09
+     Demo-Ge-Dynamics-DigColor-Dv10
+     Demo-Ge-Dynamics-DigColor-Dv11
+     Demo-Ge-Dynamics-DigColor-Dv12
+     Demo-Ge-Dynamics-DigColor-Dv13
+     Demo-Ge-Dynamics-DigColor-Dv14
+     Demo-Ge-Dynamics-DigColor-Dv15
+     Demo-Ge-Dynamics-DigColor-Dv16
+     Demo-Ge-Dynamics-DigColor-Dv17
+     Demo-Ge-Dynamics-DigColor-Dv18
+     Demo-Ge-Dynamics-DigColor-Dv19
+     Demo-Ge-Dynamics-DigColor-Dv20
+     Demo-Ge-Dynamics-DigColor-Dv21
+     Demo-Ge-Dynamics-DigColor-Dv22
+     Demo-Ge-Dynamics-DigColor-Dv23
+     Demo-Ge-Dynamics-DigColor-Dv24
+     Demo-Ge-Dynamics-DigColor-Dv25
+     Demo-Ge-Dynamics-DigColor-Dv26
+     Demo-Ge-Dynamics-DigColor-Dv27
+     Demo-Ge-Dynamics-DigColor-Dv28
+     Demo-Ge-Dynamics-DigColor-Dv29
+     Demo-Ge-Dynamics-DigColor-Dv30
+     Demo-Ge-Dynamics-DigColor-Dv31
+     Demo-Ge-Dynamics-DigColor-Dv32
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W
+
+
+    Signals 
+    ------- 
+     Demo-Components-Base-BaseLevelSwitch-AlarmStatus
+     Demo-Components-Base-BasePressureSwitch-AlarmStatus
+     Demo-Components-Base-BaseSupSwitch-AlarmStatus
+     Demo-Components-Base-BaseTempSwitch-AlarmStatus
+     Demo-Components-Base-BaseFlowSensor-DisableSup
+     Demo-Components-Base-BaseLevelSensor-DisableSup
+     Demo-Components-Base-BasePressureSensor-DisableSup
+     Demo-Components-Base-BaseTempSensor-DisableSup
+     Demo-Components-Base-BaseFanAggr-Err1
+     Demo-Components-Base-BaseMotorAggr-Err1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-Err1
+     Demo-Components-Base-BasePumpAggr-Err1
+     Demo-Components-Base-BaseMotorAggr-Err2
+     Demo-Components-Base-BaseContactor-Error
+     Demo-Components-Base-BaseFanAggr-ExtControl1
+     Demo-Components-Base-BaseMotorAggr-ExtControl1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-ExtControl1
+     Demo-Components-Base-BasePumpAggr-ExtControl1
+     Demo-Components-Base-BaseMotorAggr-ExtControl2
+     Demo-Components-Base-BaseMotorIncrDecrAggr-ExtDecr1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-ExtIncr1
+     Demo-Components-Base-BaseDirValve-ExtInterlock1
+     Demo-Components-Base-BaseFanAggr-ExtInterlock1
+     Demo-Components-Base-BaseMotorAggr-ExtInterlock1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-ExtInterlock1
+     Demo-Components-Base-BaseMValve-ExtInterlock1
+     Demo-Components-Base-BasePumpAggr-ExtInterlock1
+     Demo-Components-Base-BaseDirValve-ExtInterlock2
+     Demo-Components-Base-BaseMotorAggr-ExtInterlock2
+     Demo-Components-Base-BaseMValve-ExtInterlock2
+     Demo-Components-Base-BaseMValve-ExtInterlock3
+     Demo-Components-Base-BaseMValve-ExtInterlock4
+     Demo-Components-Base-BasePropValve-ExtOrder
+
+								- 1 -
+RTT PLCMODULE LIST
+
+    Signals 
+    ------- 
+     Demo-Components-Base-BaseCValve-ExtOrder1
+     Demo-Components-Base-BaseMValve-ExtOrder1
+     Demo-Components-Base-BaseCValve-ExtOrder2
+     Demo-Components-Base-BaseMValve-ExtOrder2
+     Demo-Components-Base-BaseCValve-ExtOrder3
+     Demo-Components-Base-BaseMValve-ExtOrder3
+     Demo-Components-Base-BaseCValve-ExtOrder4
+     Demo-Components-Base-BaseMValve-ExtOrder4
+     Demo-Components-Base-BaseDirValve-ExtOrderDecr1
+     Demo-Components-Base-BaseDirValve-ExtOrderDecr2
+     Demo-Components-Base-BaseDirValve-ExtOrderIncr1
+     Demo-Components-Base-BaseDirValve-ExtOrderIncr2
+     Demo-Components-Base-BaseFanAggr-ExtStart1
+     Demo-Components-Base-BaseMotorAggr-ExtStart1
+     Demo-Components-Base-BasePumpAggr-ExtStart1
+     Demo-Components-Base-BaseMotorAggr-ExtStart2
+     Demo-Components-Base-BaseContactor-Feedback
+     Demo-Components-Base-BaseFlowSensor-High
+     Demo-Components-Base-BaseLevelSensor-High
+     Demo-Components-Base-BasePressureSensor-High
+     Demo-Components-Base-BaseTempSensor-High
+     Demo-Components-Base-BaseFlowSensor-HighHigh
+     Demo-Components-Base-BaseLevelSensor-HighHigh
+     Demo-Components-Base-BasePressureSensor-HighHigh
+     Demo-Components-Base-BaseTempSensor-HighHigh
+     Demo-Components-Base-BaseMotorIncrDecrAggr-LimitSwitchDecr1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-LimitSwitchIncr1
+     Demo-Components-Base-BasePropValve-LocalMode
+     Demo-Components-Base-BaseCValve-LocalMode1
+     Demo-Components-Base-BaseCValve-LocalMode2
+     Demo-Components-Base-BaseCValve-LocalMode3
+     Demo-Components-Base-BaseCValve-LocalMode4
+     Demo-Components-Base-BaseFanAggr-LocMode1
+     Demo-Components-Base-BaseMotorAggr-LocMode1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-LocMode1
+     Demo-Components-Base-BasePumpAggr-LocMode1
+     Demo-Components-Base-BaseMotorAggr-LocMode2
+
+								- 2 -
+RTT PLCMODULE LIST
+
+    Signals 
+    ------- 
+     Demo-Components-Base-BaseFlowSensor-Low
+     Demo-Components-Base-BaseLevelSensor-Low
+     Demo-Components-Base-BasePressureSensor-Low
+     Demo-Components-Base-BaseTempSensor-Low
+     Demo-Components-Base-BaseFlowSensor-LowLow
+     Demo-Components-Base-BaseLevelSensor-LowLow
+     Demo-Components-Base-BasePressureSensor-LowLow
+     Demo-Components-Base-BaseTempSensor-LowLow
+     Demo-Components-Base-BaseContactor-On
+     Demo-Components-Base-BaseSafetySwitch-On
+     Demo-Components-Base-BaseFanAggr-On1
+     Demo-Components-Base-BaseMotorAggr-On1
+     Demo-Components-Base-BasePumpAggr-On1
+     Demo-Components-Base-BaseMotorAggr-On2
+     Demo-Components-Base-BaseMotorIncrDecrAggr-OnDecr1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-OnIncr1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-OpLocalDecr1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-OpLocalIncr1
+     Demo-Components-Base-BaseFanAggr-OpLocStart1
+     Demo-Components-Base-BaseMotorAggr-OpLocStart1
+     Demo-Components-Base-BasePumpAggr-OpLocStart1
+     Demo-Components-Base-BaseMotorAggr-OpLocStart2
+     Demo-Components-Base-BaseOverloadRelay-Overload
+     Demo-Components-Base-BaseFanAggr-ResTrip1
+     Demo-Components-Base-BaseMotorAggr-ResTrip1
+     Demo-Components-Base-BaseMotorIncrDecrAggr-ResTrip1
+     Demo-Components-Base-BasePumpAggr-ResTrip1
+     Demo-Components-Base-BaseMotorAggr-ResTrip2
+     Demo-Components-Base-BaseCircuitBreaker-Tripped
+     Demo-Components-Base-BaseFlowSensor-Value
+     Demo-Components-Base-BaseLevelSensor-Value
+     Demo-Components-Base-BasePressureSensor-Value
+     Demo-Components-Base-BaseTempSensor-Value
+
+
+
+
+
+								- 3 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CB1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CO1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV1-W-Actuator-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Position
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV1-W-Actuator-W-CompModeAMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV2-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV2-W-Actuator-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Position
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV2-W-Actuator-W-CompModeAMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV3-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV3-W-Actuator-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Position
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV3-W-Actuator-W-CompModeAMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV4-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV4-W-Actuator-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Position
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-CV4-W-Actuator-W-CompModeAMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-DV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseDirValve.OrderDecr
+     BaseComponent-Class-BaseDirValve.OrderIncr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-DV1-W-CompModeD2MFo6-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-DV2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseDirValve.OrderDecr
+     BaseComponent-Class-BaseDirValve.OrderIncr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-DV2-W-CompModeD2MFo6-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-OverloadRelay-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-F1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-FI1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-LA1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-LI1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-OverloadRelay-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-OverloadRelay-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-M2-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-ManV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-ManV2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-ManV3-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-ManV4-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchClosed
+     BaseComponent-Class-BaseManValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorIncrDecrAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorIncrDecrAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorIncrDecrAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-ConDecrease-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-ConIncrease-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-OverloadRelay-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MID-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV1-W-CompModeDMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV2-W-CompModeDMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV3-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV3-W-CompModeDMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV4-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-MV4-W-CompModeDMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-OL1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-OverloadRelay-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-P1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-PA1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-PI1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-PV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BasePropValve.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-PV1-W-CompModeAMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-SS1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-TA1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-TI1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Plc-W-XA1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-CO1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-CV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCValve.Actuator.Order
+     BaseComponent-Class-BaseCValve.Actuator.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-CV2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCValve.Actuator.Order
+     BaseComponent-Class-BaseCValve.Actuator.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-CV3-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCValve.Actuator.Order
+     BaseComponent-Class-BaseCValve.Actuator.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-CV4-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCValve.Actuator.Order
+     BaseComponent-Class-BaseCValve.Actuator.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-F1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.Contactor.Feedback
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-F1-W-Contactor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-F1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-F1-W-Motor-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-FI1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-LI1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.Contactor.Feedback
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M1-W-Contactor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M1-W-Motor-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.Contactor.Feedback
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M2-W-Contactor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M2-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-M2-W-Motor-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MID1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorIncrDecrAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorIncrDecrAggr.ContactorDecr.Feedback
+     BaseComponent-Class-BaseMotorIncrDecrAggr.ContactorIncr.Feedback
+     BaseComponent-Class-BaseMotorIncrDecrAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorIncrDecrAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MID1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MID1-W-Motor-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MV2-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MV3-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-MV4-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-P1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.Contactor.Feedback
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-P1-W-Contactor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-P1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-P1-W-Motor-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-PI1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-Base-Simulate-W-TI1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W
+
+
+    Signals 
+    ------- 
+     Demo-Components-ABB-ABB_ACS800FanAggr-Err1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-Err1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-Err1
+     Demo-Components-ABB-ABB_ACS800FanAggr-ExtControl1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-ExtControl1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-ExtControl1
+     Demo-Components-ABB-ABB_ACS800FanAggr-ExtInterlock1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-ExtInterlock1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-ExtInterlock1
+     Demo-Components-ABB-ABB_ACS800FanAggr-ExtStart1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-ExtStart1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-ExtStart1
+     Demo-Components-ABB-ABB_ACS800FanAggr-LocMode1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-LocMode1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-LocMode1
+     Demo-Components-ABB-ABB_ACS800FanAggr-On1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-On1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-On1
+     Demo-Components-ABB-ABB_ACS800FanAggr-OpLocStart1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-OpLocStart1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-OpLocStart1
+     Demo-Components-ABB-ABB_ACS800FanAggr-PowerInterlock1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-PowerInterlock1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-PowerInterlock1
+     Demo-Components-ABB-ABB_ACS800FanAggr-RefSpeedExt1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-RefSpeedExt1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-RefSpeedExt1
+     Demo-Components-ABB-ABB_ACS800FanAggr-RefSpeedLoc1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-RefSpeedLoc1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-RefSpeedLoc1
+     Demo-Components-ABB-ABB_ACS800FanAggr-ResTrip1
+     Demo-Components-ABB-ABB_ACS800MotorAggr-ResTrip1
+     Demo-Components-ABB-ABB_ACS800PumpAggr-ResTrip1
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-ACS800-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800_1.RefSpeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-PowerOn-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-F1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-ACS800-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800_1.RefSpeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-PowerOn-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-M1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-ACS800-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800_1.RefSpeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-PowerOn-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Plc-W-P1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-F1-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.Contactor.Feedback
+     ABB-Class-ABB_ACS800MotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800_1.RefSpeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-F1-W-MotorSim-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-F1-W-MotorSim-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-M1-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.Contactor.Feedback
+     ABB-Class-ABB_ACS800MotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800_1.RefSpeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-M1-W-MotorSim-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-M1-W-MotorSim-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-P1-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800MotorAggr.CircuitBreaker.NotTripped
+     ABB-Class-ABB_ACS800MotorAggr.Contactor.Feedback
+     ABB-Class-ABB_ACS800MotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W
+
+
+    Signals 
+    ------- 
+     ABB-Class-ABB_ACS800_1.RefSpeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-P1-W-MotorSim-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Components-ABB-Sim-W-P1-W-MotorSim-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W
+
+
+    Signals 
+    ------- 
+     Demo-Process-LevelControl-Reset
+     Demo-Process-LevelControl-Reset
+     Demo-Process-LevelControl-Start
+     Demo-Process-LevelControl-Stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-CV1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Order
+     BaseComponent-Class-BaseActuatorA.Position
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchClosed
+     BaseComponent-Class-BaseActuatorA.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-CompModeAMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-LC1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-MV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchClosed
+     BaseComponent-Class-BaseMValve.SwitchOpen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-MV1-W-CompModeDMFo0-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-CircuitBreaker-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCircuitBreaker.NotTripped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-Mode-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-Motor-W-TempSensor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSensor.Value
+     BaseComponent-Class-BaseSensor.Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-Motor-W-TempSwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSupSwitch.Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-OverloadRelay-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseOverloadRelay.Overload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Plc-W-P1-W-SafetySwitch-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseSafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W
+
+
+    Signals 
+    ------- 
+     Demo-Process-LevelControl-CV1.Actuator.Order
+     Demo-Process-LevelControl-MV1.SwitchOpen
+     Demo-Process-LevelControl-P1.Contactor.Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-CV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseCValve.Actuator.Order
+     BaseComponent-Class-BaseCValve.Actuator.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-LC1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-LC1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-LC1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-LC1-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-MV1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMValve.Order
+     BaseComponent-Class-BaseMValve.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-P1-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseMotorAggr.CircuitBreaker.NotTripped
+     BaseComponent-Class-BaseMotorAggr.Contactor.Feedback
+     BaseComponent-Class-BaseMotorAggr.OverloadRelay.Overload
+     BaseComponent-Class-BaseMotorAggr.SafetySwitch.On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W
+
+
+    Signals 
+    ------- 
+     BaseComponent-Class-BaseContactor.Feedback
+     BaseComponent-Class-BaseContactor.Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-P1-W-Motor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -
+RTT PLCMODULE LIST
+
+
+Demo-Process-LevelControl-Simulate-W-P1-W-Motor-W-Sensor-W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								- 1 -

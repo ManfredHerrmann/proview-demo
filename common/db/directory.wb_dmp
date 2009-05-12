@@ -1,0 +1,35 @@
+Volume directory $DirectoryVolume 254.254.254.253 
+  Body SysBody 05-MAR-2008 11:22:55.46
+    Attr NextOix = "_X13"
+  EndBody
+  Object System $System 2 17-JAN-2006 17:43:09.50
+    Body SysBody 05-MAR-2008 11:22:55.46
+      Attr SystemName = "pwrdemo"
+      Attr SystemGroup = "Common"
+    EndBody
+  EndObject
+  Object Bus999 BusConfig 3 11-MAY-2006 15:40:05.54
+    Body RtBody 05-MAR-2008 11:22:55.46
+      Attr BusNumber = 999
+    EndBody
+    Object DemoNode NodeConfig 10 11-MAY-2006 15:40:05.54
+      Body RtBody 05-MAR-2008 11:22:55.46
+        Attr NodeName = "pwr42"
+        Attr OperatingSystem = 64
+        Attr Address = "127.0.0.1"
+      EndBody
+      Object VolPwrDemo RootVolumeLoad 11 11-MAY-2006 15:40:05.54
+        Body RtBody 05-MAR-2008 11:22:55.46
+        EndBody
+      EndObject
+      Object Distribute Distribute 12 11-MAY-2006 15:40:05.54
+        Body DevBody 05-MAR-2008 11:22:55.46
+        EndBody
+      EndObject
+    EndObject
+  EndObject
+  Object VolPwrDemo RootVolumeConfig 7 23-JAN-2006 11:16:03.17
+    Body RtBody 05-MAR-2008 11:22:55.46
+    EndBody
+  EndObject
+EndVolume
