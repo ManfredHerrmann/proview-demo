@@ -18,3 +18,4 @@ ld_node_*.dat
 *.dbs
 plc_*.opt_template
 plc_v*.dat
+*.log
