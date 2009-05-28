@@ -9,13 +9,13 @@
 105 100
 106 -14
 107 -32
-108 35.0475
-109 -1.78411e-14
+108 35.0474
+109 -4e-07
 110 15.3748
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 0
 121 Claes context
@@ -5190,7 +5190,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-Base-BasePropValve-ExtOrder.ActualValue##Float32
 1201 %6.1f
@@ -5660,7 +5660,7 @@ pwr_exe:
 100 1056
 101 65
 102 33619964
-103 0
+103 2
 8
 800 Demo-Components-Base-BasePropValve-PV1.Mode.LocalMode##Boolean
 99

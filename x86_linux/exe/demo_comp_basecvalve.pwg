@@ -3,20 +3,20 @@
 135 20
 101 20
 102 24
-103 -94
-104 1.86656
-136 1.86656
+103 536
+104 2.02757
+136 2.02757
 105 100
 106 0
-107 -8
+107 0
 108 35
 109 0
 110 56.3749
-111 0.25
+111 0.15
 116 2
-117 0
-118 66
-119 56
+117 54
+118 71
+119 116
 120 0
 121 Claes context
 122 0
@@ -5150,7 +5150,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-Base-BaseCValve-ExtOrder1.ActualValue##Float32
 1201 %6.1f
@@ -5292,7 +5292,7 @@ pwr_exe:
 100 1
 101 65
 102 33619964
-103 0
+103 2
 32
 3200 Demo-Components-Base-BaseCValve-CV1
 99
@@ -7100,7 +7100,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-Base-BaseCValve-ExtOrder2.ActualValue##Float32
 1201 %6.1f
@@ -7242,7 +7242,7 @@ pwr_exe:
 100 1
 101 65
 102 33619964
-103 0
+103 2
 32
 3200 Demo-Components-Base-BaseCValve-CV2
 99
@@ -9050,7 +9050,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-Base-BaseCValve-ExtOrder3.ActualValue##Float32
 1201 %6.1f
@@ -9192,7 +9192,7 @@ pwr_exe:
 100 1
 101 65
 102 33619964
-103 0
+103 2
 32
 3200 Demo-Components-Base-BaseCValve-CV3
 99
@@ -11000,7 +11000,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-Base-BaseCValve-ExtOrder4.ActualValue##Float32
 1201 %6.1f
@@ -11142,7 +11142,7 @@ pwr_exe:
 100 1
 101 65
 102 33619964
-103 0
+103 2
 32
 3200 Demo-Components-Base-BaseCValve-CV4
 99

@@ -19,3 +19,5 @@ ld_node_*.dat
 plc_*.opt_template
 plc_v*.dat
 *.log
+*.bck
+rt_evenlog_info.txt

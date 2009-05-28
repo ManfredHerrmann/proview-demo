@@ -10,12 +10,12 @@
 106 -8
 107 -29
 108 35
-109 -0.05
+109 -0.0500004
 110 8.60415
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 1
 121 Claes context
@@ -2439,7 +2439,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigText-Dv1.ActualValue##Boolean
 201 9999
@@ -2698,7 +2698,7 @@ pwr_exe:
 100 512
 101 1
 102 33619967
-103 0
+103 2
 11
 1100 Demo-Ge-Dynamics-DigText-Dv1.ActualValue##Boolean
 1101   Low

@@ -9,8 +9,8 @@
 105 100
 106 -6
 107 -14
-108 35.0475
-109 -1.32337e-14
+108 35.0474
+109 -4e-07
 110 29.1717
 111 -0.15
 116 0
@@ -8562,7 +8562,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-ABB-ABB_ACS800PumpAggr-RefSpeedExt1.ActualValue##Float32
 1201 %6.1f
@@ -8968,7 +8968,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Components-ABB-ABB_ACS800PumpAggr-RefSpeedLoc1.ActualValue##Float32
 1201 %6.1f
@@ -9795,7 +9795,7 @@ pwr_exe:
 100 1
 101 65
 102 33619964
-103 0
+103 2
 32
 3200 Demo-Components-ABB-ABB_ACS800PumpAggr-P1
 99

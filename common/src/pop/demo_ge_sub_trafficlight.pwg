@@ -4,18 +4,18 @@
 101 20
 102 -15
 103 -169
-104 3.00395
-136 3.00395
+104 3.7377
+136 3.7377
 105 100
 106 -2
-107 -25
+107 -31
 108 35
 109 -0.0500004
 110 11.296
 111 -0.15
 116 0
 117 0
-118 127
+118 126
 119 113
 120 0
 121 Claes context
@@ -2604,7 +2604,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-TrafficLight-Dv1.ActualValue##Boolean
 201 9999
@@ -3030,7 +3030,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-TrafficLight-Dv2.ActualValue##Boolean
 201 9999
@@ -3321,7 +3321,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-TrafficLight-Dv3.ActualValue##Boolean
 201 9999

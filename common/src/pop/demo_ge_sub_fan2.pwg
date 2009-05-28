@@ -15,7 +15,7 @@
 111 -0.15
 116 0
 117 0
-118 150
+118 127
 119 113
 120 0
 121 Claes context
@@ -3008,7 +3008,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-Fan2-Dv1.ActualValue##Boolean
 201 9999
@@ -3137,7 +3137,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-Fan2-Dv1.ActualValue##Boolean
 201 9999
@@ -3600,7 +3600,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-Fan2-Dv2.ActualValue##Boolean
 201 9999

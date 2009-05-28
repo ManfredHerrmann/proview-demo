@@ -10,12 +10,12 @@
 106 -7
 107 -29
 108 35
-109 -0.05
+109 -0.0500004
 110 13.4355
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 0
 121 Claes context
@@ -1616,7 +1616,7 @@ pwr_exe:
 100 33554432
 101 0
 102 65532
-103 1
+103 2
 31
 3100 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##Int32
 3101 28
@@ -3299,7 +3299,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##Status
 1201 %m

@@ -9,13 +9,13 @@
 105 100
 106 -7
 107 -16
-108 35.0475
-109 -2.06722e-14
+108 35.0474
+109 -4e-07
 110 26
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 1
 121 Claes context
@@ -7437,7 +7437,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-Animation-Dv1.ActualValue##Boolean
 201 9999
@@ -8255,7 +8255,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-Animation-Dv2.ActualValue##Boolean
 201 9999
@@ -8944,7 +8944,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-Animation-Dv3.ActualValue##Boolean
 201 9999

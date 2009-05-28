@@ -10,12 +10,12 @@
 106 -12
 107 -33
 108 35
-109 -0.05
+109 -0.0500004
 110 9.35001
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 1
 121 Claes context
@@ -7748,7 +7748,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-FanAnim-Dv1.ActualValue##Boolean
 201 9999
@@ -7877,7 +7877,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 19
 1900 Demo-Ge-Subgraphs-FanAnim-Dv1.ActualValue##Boolean
 1901 0

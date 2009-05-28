@@ -10,12 +10,12 @@
 106 -3
 107 -24
 108 35
-109 -0.05
+109 -0.0500004
 110 9.22709
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 1
 121 Claes context
@@ -2164,7 +2164,7 @@ pwr_exe:
 100 256
 101 0
 102 65532
-103 1
+103 2
 10
 1000 Demo-Ge-Dynamics-DigBorder-Dv1.ActualValue##Boolean
 1001 0
@@ -2489,7 +2489,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigBorder-Dv1.ActualValue##Boolean
 201 9999

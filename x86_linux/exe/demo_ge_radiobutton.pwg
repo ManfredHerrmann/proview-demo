@@ -9,13 +9,13 @@
 105 100
 106 -6
 107 -13
-108 35.0475
-109 -1.77301e-14
+108 35.0474
+109 -4e-07
 110 11.9719
 111 -0.15
 116 0
 117 0
-118 150
+118 126
 119 113
 120 1
 121 Claes context
@@ -2968,7 +2968,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Actions-RadioButton-Dv1.ActualValue##Boolean
 201 9999
@@ -3936,7 +3936,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Actions-RadioButton-Dv2.ActualValue##Boolean
 201 9999
@@ -4227,7 +4227,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Actions-RadioButton-Dv3.ActualValue##Boolean
 201 9999
@@ -4518,7 +4518,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Actions-RadioButton-Dv4.ActualValue##Boolean
 201 9999

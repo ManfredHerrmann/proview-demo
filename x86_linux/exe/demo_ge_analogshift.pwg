@@ -10,12 +10,12 @@
 106 -2
 107 -16
 108 35
-109 -0.05
+109 -0.0500004
 110 8.65
 111 -0.15
 116 0
 117 0
-118 149
+118 126
 119 113
 120 0
 121 Claes context
@@ -5753,7 +5753,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 12
 1200 Demo-Ge-Dynamics-AnalogShift-Av1.ActualValue##Float32
 1201 %6.1f
@@ -5895,7 +5895,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 17
 1700 Demo-Ge-Dynamics-AnalogShift-Av1.ActualValue##Float32
 99

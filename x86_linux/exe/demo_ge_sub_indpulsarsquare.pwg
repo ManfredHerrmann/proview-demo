@@ -9,13 +9,13 @@
 105 100
 106 -8
 107 -32
-108 35.0475
-109 -2.10608e-14
+108 35.0474
+109 -4e-07
 110 8.61064
 111 -0.15
 116 0
 117 0
-118 150
+118 126
 119 113
 120 0
 121 Claes context
@@ -3446,7 +3446,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Subgraphs-IndPulsarSquare-Dv1.ActualValue##Boolean
 201 9999
@@ -3575,7 +3575,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 19
 1900 Demo-Ge-Subgraphs-IndPulsarSquare-Dv1.ActualValue##Boolean
 1901 0

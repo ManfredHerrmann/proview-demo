@@ -2,22 +2,22 @@
 100 20
 135 20
 101 20
-102 -88
-103 -131
-104 2.63523
-136 2.63523
+102 -67
+103 140
+104 3.02789
+136 3.02789
 105 100
-106 -11
-107 -17
+106 -10
+107 0
 108 35
 109 -0.1
 110 36.71
 111 -0.15
 116 0
-117 0
-118 111
-119 99
-120 1
+117 21
+118 102
+119 113
+120 0
 121 Claes context
 122 0
 126 1
@@ -3743,7 +3743,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv1.ActualValue##Boolean
 201 9999
@@ -5147,7 +5147,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv01.ActualValue##Boolean
 201 9999
@@ -5444,7 +5444,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv02.ActualValue##Boolean
 201 9999
@@ -5741,7 +5741,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv03.ActualValue##Boolean
 201 9999
@@ -6038,7 +6038,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv04.ActualValue##Boolean
 201 9999
@@ -6335,7 +6335,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv05.ActualValue##Boolean
 201 9999
@@ -6632,7 +6632,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv06.ActualValue##Boolean
 201 9999
@@ -6929,7 +6929,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv07.ActualValue##Boolean
 201 9999
@@ -7226,7 +7226,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv08.ActualValue##Boolean
 201 9999
@@ -7523,7 +7523,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv09.ActualValue##Boolean
 201 9999
@@ -7820,7 +7820,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv10.ActualValue##Boolean
 201 9999
@@ -8117,7 +8117,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv11.ActualValue##Boolean
 201 9999
@@ -8414,7 +8414,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv12.ActualValue##Boolean
 201 9999
@@ -8711,7 +8711,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv13.ActualValue##Boolean
 201 9999
@@ -9008,7 +9008,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv14.ActualValue##Boolean
 201 9999
@@ -9305,7 +9305,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv32.ActualValue##Boolean
 201 9999
@@ -9602,7 +9602,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv15.ActualValue##Boolean
 201 9999
@@ -9899,7 +9899,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv16.ActualValue##Boolean
 201 9999
@@ -10196,7 +10196,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv17.ActualValue##Boolean
 201 9999
@@ -10493,7 +10493,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv18.ActualValue##Boolean
 201 9999
@@ -10790,7 +10790,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv19.ActualValue##Boolean
 201 9999
@@ -11087,7 +11087,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv20.ActualValue##Boolean
 201 9999
@@ -11384,7 +11384,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv21.ActualValue##Boolean
 201 9999
@@ -11681,7 +11681,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv22.ActualValue##Boolean
 201 9999
@@ -11978,7 +11978,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv23.ActualValue##Boolean
 201 9999
@@ -12275,7 +12275,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv24.ActualValue##Boolean
 201 9999
@@ -12572,7 +12572,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv25.ActualValue##Boolean
 201 9999
@@ -12869,7 +12869,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv26.ActualValue##Boolean
 201 9999
@@ -13166,7 +13166,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv27.ActualValue##Boolean
 201 9999
@@ -13463,7 +13463,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv28.ActualValue##Boolean
 201 9999
@@ -13760,7 +13760,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv29.ActualValue##Boolean
 201 9999
@@ -14057,7 +14057,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv30.ActualValue##Boolean
 201 9999
@@ -14354,7 +14354,7 @@ pwr_exe:
 100 1
 101 1
 102 33619967
-103 0
+103 2
 2
 200 Demo-Ge-Dynamics-DigColor-Dv31.ActualValue##Boolean
 201 9999
