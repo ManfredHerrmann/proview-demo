@@ -1,0 +1,1293 @@
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Slider
+ R Demo-Ge-Dynamics-Plc-W-GetDv0 GetDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Iv1
+ R Demo-Ge-Dynamics-Plc-W-CSub0-W-GetIv0 GetIv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv01
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv0 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv02
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv1 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv03
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv2 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv04
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv3 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv05
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv4 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv06
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv5 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv07
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv6 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv08
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv7 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv09
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv8 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv10
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv9 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv11
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv10 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv12
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv11 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv13
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv12 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv14
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv13 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv15
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv14 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv16
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv15 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv17
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv16 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv18
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv17 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv19
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv18 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv20
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv19 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv21
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv20 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv22
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv21 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv23
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv22 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv24
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv23 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv25
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv24 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv26
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv25 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv27
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv26 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv28
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv27 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv29
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv28 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv30
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv29 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv31
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv30 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv32
+ W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv31 StoDv
+VolPwrDemo:Demo-Ge-Actions-PopupMenu-Dv1
+ W Demo-Ge-Dynamics-Plc-W-StoDv32 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-Demo1-Dv1
+ W Demo-Ge-Dynamics-Plc-W-StoDv33 StoDv
+ R Demo-Ge-Actions-PopupMenu-Demo1 XttGraph
+ R Demo-Ge-Actions-OpenGraph-Demo XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Demo1-Dv2
+ W Demo-Ge-Dynamics-Plc-W-StoDv34 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-Demo1-Dv3
+ W Demo-Ge-Dynamics-Plc-W-StoDv35 StoDv
+VolPwrDemo:Demo-Ge-Dynamics-Demo1-Reset
+ R Demo-Ge-Dynamics-Plc PlcPgm
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-TI1.Value
+ R Demo-Components-Base-Plc-W-TI1-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-TI1-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-TI1-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-LI1.Value
+ R Demo-Components-Base-Plc-W-LI1-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-LI1-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-LI1-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-PI1.Value
+ R Demo-Components-Base-Plc-W-PI1-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-PI1-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-PI1-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-FI1.Value
+ R Demo-Components-Base-Plc-W-FI1-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-FI1-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-FI1-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BasePressureSwitch-PA1.Switch
+ R Demo-Components-Base-Plc-W-PA1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseLevelSwitch-LA1.Switch
+ R Demo-Components-Base-Plc-W-LA1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseTempSwitch-TA1.Switch
+ R Demo-Components-Base-Plc-W-TA1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseSupSwitch-XA1.Switch
+ R Demo-Components-Base-Plc-W-XA1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCircuitBreaker-CB1.NotTripped
+ R Demo-Components-Base-Plc-W-CB1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseContactor-CO1.Order
+ R Demo-Components-Base-Simulate-W-CO1-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-CO1-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseContactor-CO1.Feedback
+ R Demo-Components-Base-Plc-W-CO1-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-CO1-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-CO1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseOverloadRelay-OL1.Overload
+ R Demo-Components-Base-Plc-W-OL1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseSafetySwitch-SS1.On
+ R Demo-Components-Base-Plc-W-SS1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV1.SwitchOpen
+ R Demo-Components-Base-Plc-W-ManV1-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-ManV1-W-GetDi7 GetDi
+ R Demo-Components-Base-Plc-W-ManV1-W-GetDi8 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV1.SwitchClosed
+ R Demo-Components-Base-Plc-W-ManV1-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-ManV1-W-GetDi6 GetDi
+ R Demo-Components-Base-Plc-W-ManV1-W-GetDi9 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV1.Order
+ R Demo-Components-Base-Plc-W-MV1-W-GetDo0 GetDo
+ R Demo-Components-Base-Plc-W-MV1-W-GetDo1 GetDo
+ R Demo-Components-Base-Plc-W-MV1-W-GetDo2 GetDo
+ R Demo-Components-Base-Plc-W-MV1-W-GetDo3 GetDo
+ R Demo-Components-Base-Simulate-W-MV1-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-MV1-W-GetDo1 GetDo
+ W Demo-Components-Base-Plc-W-MV1-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV1.SwitchOpen
+ R Demo-Components-Base-Plc-W-MV1-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-MV1-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-MV1-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV1.SwitchClosed
+ R Demo-Components-Base-Plc-W-MV1-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-MV1-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-MV1-W-GetDi5 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV1.Actuator.Order
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAo0 GetAo
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAo1 GetAo
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAo2 GetAo
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAo3 GetAo
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAo4 GetAo
+ W Demo-Components-Base-Plc-W-CV1-W-Actuator-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV1.Actuator.Position
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV1.Actuator.SwitchOpen
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi4 GetDi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi7 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV1.Actuator.SwitchClosed
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi5 GetDi
+ R Demo-Components-Base-Plc-W-CV1-W-Actuator-W-GetDi6 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV1.Actuator.Order
+ R Demo-Components-Base-Simulate-W-CV1-W-GetAo0 GetAo
+ R Demo-Components-Base-Simulate-W-CV1-W-GetAo1 GetAo
+ R Demo-Components-Base-Simulate-W-CV1-W-GetAo2 GetAo
+VolPwrDemo:Demo-Components-Base-BaseDirValve-DV1.OrderIncr
+ W Demo-Components-Base-Plc-W-DV1-W-StoDo1 StoDo
+VolPwrDemo:Demo-Components-Base-BaseDirValve-DV1.OrderDecr
+ W Demo-Components-Base-Plc-W-DV1-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BasePropValve-PV1.Order
+ W Demo-Components-Base-Plc-W-PV1-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-Base-BaseContactor-On
+ R Demo-Components-Base-Plc-W-GetDv0 GetDv
+VolPwrDemo:Demo-Components-Base-BaseContactor-Feedback
+ W Demo-Components-Base-Plc-W-StoDv0 StoDv
+VolPwrDemo:Demo-Components-Base-BaseContactor-Error
+ W Demo-Components-Base-Plc-W-StoDv1 StoDv
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-DisableSup
+ R Demo-Components-Base-Plc-W-GetDv1 GetDv
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-Value
+ W Demo-Components-Base-Plc-W-StoAv0 StoAv
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-HighHigh
+ W Demo-Components-Base-Plc-W-StoDv2 StoDv
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-High
+ W Demo-Components-Base-Plc-W-StoDv3 StoDv
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-Low
+ W Demo-Components-Base-Plc-W-StoDv4 StoDv
+VolPwrDemo:Demo-Components-Base-BaseTempSensor-LowLow
+ W Demo-Components-Base-Plc-W-StoDv5 StoDv
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-DisableSup
+ R Demo-Components-Base-Plc-W-GetDv2 GetDv
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-Value
+ W Demo-Components-Base-Plc-W-StoAv1 StoAv
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-HighHigh
+ W Demo-Components-Base-Plc-W-StoDv6 StoDv
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-High
+ W Demo-Components-Base-Plc-W-StoDv7 StoDv
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-Low
+ W Demo-Components-Base-Plc-W-StoDv8 StoDv
+VolPwrDemo:Demo-Components-Base-BaseLevelSensor-LowLow
+ W Demo-Components-Base-Plc-W-StoDv9 StoDv
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-DisableSup
+ R Demo-Components-Base-Plc-W-GetDv3 GetDv
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-Value
+ W Demo-Components-Base-Plc-W-StoAv2 StoAv
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-HighHigh
+ W Demo-Components-Base-Plc-W-StoDv13 StoDv
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-High
+ W Demo-Components-Base-Plc-W-StoDv12 StoDv
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-Low
+ W Demo-Components-Base-Plc-W-StoDv11 StoDv
+VolPwrDemo:Demo-Components-Base-BasePressureSensor-LowLow
+ W Demo-Components-Base-Plc-W-StoDv10 StoDv
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-DisableSup
+ R Demo-Components-Base-Plc-W-GetDv4 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-Value
+ W Demo-Components-Base-Plc-W-StoAv3 StoAv
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-HighHigh
+ W Demo-Components-Base-Plc-W-StoDv17 StoDv
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-High
+ W Demo-Components-Base-Plc-W-StoDv16 StoDv
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-Low
+ W Demo-Components-Base-Plc-W-StoDv15 StoDv
+VolPwrDemo:Demo-Components-Base-BaseFlowSensor-LowLow
+ W Demo-Components-Base-Plc-W-StoDv14 StoDv
+VolPwrDemo:Demo-Components-Base-BaseSupSwitch-AlarmStatus
+ W Demo-Components-Base-Plc-W-StoDv18 StoDv
+VolPwrDemo:Demo-Components-Base-BaseTempSwitch-AlarmStatus
+ W Demo-Components-Base-Plc-W-StoDv19 StoDv
+VolPwrDemo:Demo-Components-Base-BaseLevelSwitch-AlarmStatus
+ W Demo-Components-Base-Plc-W-StoDv20 StoDv
+VolPwrDemo:Demo-Components-Base-BasePressureSwitch-AlarmStatus
+ W Demo-Components-Base-Plc-W-StoDv21 StoDv
+VolPwrDemo:Demo-Components-Base-BaseCircuitBreaker-Tripped
+ W Demo-Components-Base-Plc-W-StoDv22 StoDv
+VolPwrDemo:Demo-Components-Base-BaseOverloadRelay-Overload
+ W Demo-Components-Base-Plc-W-StoDv23 StoDv
+VolPwrDemo:Demo-Components-Base-BaseSafetySwitch-On
+ W Demo-Components-Base-Plc-W-StoDv24 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtOrder1
+ R Demo-Components-Base-Plc-W-GetDv5 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtInterlock1
+ R Demo-Components-Base-Plc-W-GetDv6 GetDv
+VolPwrDemo:Demo-Components-Base-BaseCValve-LocalMode1
+ R Demo-Components-Base-Plc-W-GetDv7 GetDv
+VolPwrDemo:Demo-Components-Base-BaseDirValve-ExtOrderIncr1
+ R Demo-Components-Base-Plc-W-GetDv10 GetDv
+VolPwrDemo:Demo-Components-Base-BaseDirValve-ExtOrderDecr1
+ R Demo-Components-Base-Plc-W-GetDv11 GetDv
+VolPwrDemo:Demo-Components-Base-BaseDirValve-ExtInterlock1
+ R Demo-Components-Base-Plc-W-GetDv12 GetDv
+VolPwrDemo:Demo-Components-Base-BasePropValve-LocalMode
+ R Demo-Components-Base-Plc-W-GetDv13 GetDv
+VolPwrDemo:Demo-Components-Base-BaseCValve-ExtOrder1
+ R Demo-Components-Base-Plc-W-GetAv1 GetAv
+VolPwrDemo:Demo-Components-Base-BasePropValve-ExtOrder
+ R Demo-Components-Base-Plc-W-GetAv0 GetAv
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV2.SwitchOpen
+ R Demo-Components-Base-Plc-W-ManV2-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-ManV2-W-GetDi7 GetDi
+ R Demo-Components-Base-Plc-W-ManV2-W-GetDi8 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV2.SwitchClosed
+ R Demo-Components-Base-Plc-W-ManV2-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-ManV2-W-GetDi6 GetDi
+ R Demo-Components-Base-Plc-W-ManV2-W-GetDi9 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV3.SwitchOpen
+ R Demo-Components-Base-Plc-W-ManV3-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-ManV3-W-GetDi7 GetDi
+ R Demo-Components-Base-Plc-W-ManV3-W-GetDi8 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV3.SwitchClosed
+ R Demo-Components-Base-Plc-W-ManV3-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-ManV3-W-GetDi6 GetDi
+ R Demo-Components-Base-Plc-W-ManV3-W-GetDi9 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV4.SwitchOpen
+ R Demo-Components-Base-Plc-W-ManV4-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-ManV4-W-GetDi7 GetDi
+ R Demo-Components-Base-Plc-W-ManV4-W-GetDi8 GetDi
+VolPwrDemo:Demo-Components-Base-BaseManValve-ManV4.SwitchClosed
+ R Demo-Components-Base-Plc-W-ManV4-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-ManV4-W-GetDi6 GetDi
+ R Demo-Components-Base-Plc-W-ManV4-W-GetDi9 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV2.Order
+ R Demo-Components-Base-Plc-W-MV2-W-GetDo0 GetDo
+ R Demo-Components-Base-Plc-W-MV2-W-GetDo1 GetDo
+ R Demo-Components-Base-Plc-W-MV2-W-GetDo2 GetDo
+ R Demo-Components-Base-Plc-W-MV2-W-GetDo3 GetDo
+ R Demo-Components-Base-Simulate-W-MV2-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-MV2-W-GetDo1 GetDo
+ W Demo-Components-Base-Plc-W-MV2-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV2.SwitchOpen
+ R Demo-Components-Base-Plc-W-MV2-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-MV2-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-MV2-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV2.SwitchClosed
+ R Demo-Components-Base-Plc-W-MV2-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-MV2-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-MV2-W-GetDi5 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtOrder2
+ R Demo-Components-Base-Plc-W-GetDv14 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtInterlock2
+ R Demo-Components-Base-Plc-W-GetDv15 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV3.Order
+ R Demo-Components-Base-Plc-W-MV3-W-GetDo0 GetDo
+ R Demo-Components-Base-Plc-W-MV3-W-GetDo1 GetDo
+ R Demo-Components-Base-Plc-W-MV3-W-GetDo2 GetDo
+ R Demo-Components-Base-Plc-W-MV3-W-GetDo3 GetDo
+ R Demo-Components-Base-Simulate-W-MV3-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-MV3-W-GetDo1 GetDo
+ W Demo-Components-Base-Plc-W-MV3-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV3.SwitchOpen
+ R Demo-Components-Base-Plc-W-MV3-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-MV3-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-MV3-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV3.SwitchClosed
+ R Demo-Components-Base-Plc-W-MV3-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-MV3-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-MV3-W-GetDi5 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtOrder3
+ R Demo-Components-Base-Plc-W-GetDv18 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtInterlock3
+ R Demo-Components-Base-Plc-W-GetDv19 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV4.Order
+ R Demo-Components-Base-Plc-W-MV4-W-GetDo0 GetDo
+ R Demo-Components-Base-Plc-W-MV4-W-GetDo1 GetDo
+ R Demo-Components-Base-Plc-W-MV4-W-GetDo2 GetDo
+ R Demo-Components-Base-Plc-W-MV4-W-GetDo3 GetDo
+ R Demo-Components-Base-Simulate-W-MV4-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-MV4-W-GetDo1 GetDo
+ W Demo-Components-Base-Plc-W-MV4-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV4.SwitchOpen
+ R Demo-Components-Base-Plc-W-MV4-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-MV4-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-MV4-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-MV4.SwitchClosed
+ R Demo-Components-Base-Plc-W-MV4-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-MV4-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-MV4-W-GetDi5 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtOrder4
+ R Demo-Components-Base-Plc-W-GetDv17 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMValve-ExtInterlock4
+ R Demo-Components-Base-Plc-W-GetDv16 GetDv
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV2.Actuator.Order
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAo0 GetAo
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAo1 GetAo
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAo2 GetAo
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAo3 GetAo
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAo4 GetAo
+ W Demo-Components-Base-Plc-W-CV2-W-Actuator-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV2.Actuator.Position
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV2.Actuator.SwitchOpen
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi4 GetDi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi7 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV2.Actuator.SwitchClosed
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi5 GetDi
+ R Demo-Components-Base-Plc-W-CV2-W-Actuator-W-GetDi6 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV2.Actuator.Order
+ R Demo-Components-Base-Simulate-W-CV2-W-GetAo0 GetAo
+ R Demo-Components-Base-Simulate-W-CV2-W-GetAo1 GetAo
+ R Demo-Components-Base-Simulate-W-CV2-W-GetAo2 GetAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-ExtOrder2
+ R Demo-Components-Base-Plc-W-GetAv2 GetAv
+VolPwrDemo:Demo-Components-Base-BaseCValve-LocalMode2
+ R Demo-Components-Base-Plc-W-GetDv20 GetDv
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV3.Actuator.Order
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAo0 GetAo
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAo1 GetAo
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAo2 GetAo
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAo3 GetAo
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAo4 GetAo
+ W Demo-Components-Base-Plc-W-CV3-W-Actuator-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV3.Actuator.Position
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV3.Actuator.SwitchOpen
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi4 GetDi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi7 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV3.Actuator.SwitchClosed
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi5 GetDi
+ R Demo-Components-Base-Plc-W-CV3-W-Actuator-W-GetDi6 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV3.Actuator.Order
+ R Demo-Components-Base-Simulate-W-CV3-W-GetAo0 GetAo
+ R Demo-Components-Base-Simulate-W-CV3-W-GetAo1 GetAo
+ R Demo-Components-Base-Simulate-W-CV3-W-GetAo2 GetAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-ExtOrder3
+ R Demo-Components-Base-Plc-W-GetAv3 GetAv
+VolPwrDemo:Demo-Components-Base-BaseCValve-LocalMode3
+ R Demo-Components-Base-Plc-W-GetDv21 GetDv
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV4.Actuator.Order
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAo0 GetAo
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAo1 GetAo
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAo2 GetAo
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAo3 GetAo
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAo4 GetAo
+ W Demo-Components-Base-Plc-W-CV4-W-Actuator-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV4.Actuator.Position
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV4.Actuator.SwitchOpen
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi3 GetDi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi4 GetDi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi7 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV4.Actuator.SwitchClosed
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi1 GetDi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi5 GetDi
+ R Demo-Components-Base-Plc-W-CV4-W-Actuator-W-GetDi6 GetDi
+VolPwrDemo:Demo-Components-Base-BaseCValve-CV4.Actuator.Order
+ R Demo-Components-Base-Simulate-W-CV4-W-GetAo0 GetAo
+ R Demo-Components-Base-Simulate-W-CV4-W-GetAo1 GetAo
+ R Demo-Components-Base-Simulate-W-CV4-W-GetAo2 GetAo
+VolPwrDemo:Demo-Components-Base-BaseCValve-ExtOrder4
+ R Demo-Components-Base-Plc-W-GetAv4 GetAv
+VolPwrDemo:Demo-Components-Base-BaseCValve-LocalMode4
+ R Demo-Components-Base-Plc-W-GetDv22 GetDv
+VolPwrDemo:Demo-Components-Base-BaseDirValve-DV2.OrderIncr
+ W Demo-Components-Base-Plc-W-DV2-W-StoDo1 StoDo
+VolPwrDemo:Demo-Components-Base-BaseDirValve-DV2.OrderDecr
+ W Demo-Components-Base-Plc-W-DV2-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseDirValve-ExtOrderIncr2
+ R Demo-Components-Base-Plc-W-GetDv23 GetDv
+VolPwrDemo:Demo-Components-Base-BaseDirValve-ExtOrderDecr2
+ R Demo-Components-Base-Plc-W-GetDv24 GetDv
+VolPwrDemo:Demo-Components-Base-BaseDirValve-ExtInterlock2
+ R Demo-Components-Base-Plc-W-GetDv25 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Motor.TempSensor.Value
+ R Demo-Components-Base-Plc-W-M1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-M1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-M1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-M1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Contactor.Order
+ R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Contactor.Feedback
+ R Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-M1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Motor.TempSwitch.Switch
+ R Demo-Components-Base-Plc-W-M1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Contactor.Feedback
+ R Demo-Components-Base-Simulate-W-M1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-M1-W-GetDi2 GetDi
+ R Demo-Components-Base-Simulate-W-M1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-M1-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-M1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.OverloadRelay.Overload
+ R Demo-Components-Base-Plc-W-M1-W-GetDi4 GetDi
+ R Demo-Components-Base-Simulate-W-M1-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-M1-W-OverloadRelay-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ExtControl1
+ R Demo-Components-Base-Plc-W-GetDv26 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-On1
+ W Demo-Components-Base-Plc-W-StoDv25 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ResTrip1
+ R Demo-Components-Base-Plc-W-GetDv31 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-OpLocStart1
+ R Demo-Components-Base-Plc-W-GetDv30 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-LocMode1
+ R Demo-Components-Base-Plc-W-GetDv29 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ExtInterlock1
+ R Demo-Components-Base-Plc-W-GetDv28 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ExtStart1
+ R Demo-Components-Base-Plc-W-GetDv27 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-Err1
+ W Demo-Components-Base-Plc-W-StoDv26 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Motor.TempSensor.Value
+ R Demo-Components-Base-Plc-W-M2-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-M2-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-M2-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-M2-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Contactor.Order
+ R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Contactor.Feedback
+ R Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-M2-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Motor.TempSwitch.Switch
+ R Demo-Components-Base-Plc-W-M2-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Contactor.Feedback
+ R Demo-Components-Base-Simulate-W-M2-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-M2-W-GetDi2 GetDi
+ R Demo-Components-Base-Simulate-W-M2-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-M2-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-M2-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.OverloadRelay.Overload
+ R Demo-Components-Base-Plc-W-M2-W-GetDi4 GetDi
+ R Demo-Components-Base-Simulate-W-M2-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-M2-W-OverloadRelay-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ExtControl2
+ R Demo-Components-Base-Plc-W-GetDv32 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ExtStart2
+ R Demo-Components-Base-Plc-W-GetDv33 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ExtInterlock2
+ R Demo-Components-Base-Plc-W-GetDv34 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-LocMode2
+ R Demo-Components-Base-Plc-W-GetDv35 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-OpLocStart2
+ R Demo-Components-Base-Plc-W-GetDv36 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-ResTrip2
+ R Demo-Components-Base-Plc-W-GetDv37 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-On2
+ W Demo-Components-Base-Plc-W-StoDv27 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-Err2
+ W Demo-Components-Base-Plc-W-StoDv28 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.Motor.TempSensor.Value
+ R Demo-Components-Base-Plc-W-MID-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-MID-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-MID-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-MID-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorIncr.Order
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorIncr.Feedback
+ R Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorDecr.Order
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorDecr.Feedback
+ R Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-MID-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.Motor.TempSwitch.Switch
+ R Demo-Components-Base-Plc-W-MID-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.OverloadRelay.Overload
+ R Demo-Components-Base-Plc-W-MID-W-OverloadRelay-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorIncr.Feedback
+ R Demo-Components-Base-Simulate-W-MID1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorDecr.Feedback
+ R Demo-Components-Base-Simulate-W-MID1-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-MID-W-GetDi2 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-MID-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.OverloadRelay.Overload
+ R Demo-Components-Base-Plc-W-MID-W-GetDi4 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-GetDi2 GetDi
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-ExtControl1
+ R Demo-Components-Base-Plc-W-GetDv38 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-ExtIncr1
+ R Demo-Components-Base-Plc-W-GetDv39 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-ExtDecr1
+ R Demo-Components-Base-Plc-W-GetDv40 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-ExtInterlock1
+ R Demo-Components-Base-Plc-W-GetDv41 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-LimitSwitchDecr1
+ R Demo-Components-Base-Plc-W-GetDv42 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-LimitSwitchIncr1
+ R Demo-Components-Base-Plc-W-GetDv43 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-LocMode1
+ R Demo-Components-Base-Plc-W-GetDv44 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-OpLocalIncr1
+ R Demo-Components-Base-Plc-W-GetDv45 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-OpLocalDecr1
+ R Demo-Components-Base-Plc-W-GetDv46 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-ResTrip1
+ R Demo-Components-Base-Plc-W-GetDv47 GetDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-OnIncr1
+ W Demo-Components-Base-Plc-W-StoDv29 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-OnDecr1
+ W Demo-Components-Base-Plc-W-StoDv30 StoDv
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-Err1
+ W Demo-Components-Base-Plc-W-StoDv31 StoDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Motor.TempSensor.Value
+ R Demo-Components-Base-Plc-W-F1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-F1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-F1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-F1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Contactor.Order
+ R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Contactor.Feedback
+ R Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-F1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Motor.TempSwitch.Switch
+ R Demo-Components-Base-Plc-W-F1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Contactor.Feedback
+ R Demo-Components-Base-Simulate-W-F1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-F1-W-GetDi2 GetDi
+ R Demo-Components-Base-Simulate-W-F1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-F1-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-F1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.OverloadRelay.Overload
+ R Demo-Components-Base-Plc-W-F1-W-GetDi4 GetDi
+ R Demo-Components-Base-Simulate-W-F1-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-F1-W-OverloadRelay-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-ExtControl1
+ R Demo-Components-Base-Plc-W-GetDv48 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-ExtStart1
+ R Demo-Components-Base-Plc-W-GetDv49 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-ExtInterlock1
+ R Demo-Components-Base-Plc-W-GetDv50 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-LocMode1
+ R Demo-Components-Base-Plc-W-GetDv51 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-OpLocStart1
+ R Demo-Components-Base-Plc-W-GetDv52 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-ResTrip1
+ R Demo-Components-Base-Plc-W-GetDv53 GetDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-On1
+ W Demo-Components-Base-Plc-W-StoDv32 StoDv
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-Err1
+ W Demo-Components-Base-Plc-W-StoDv33 StoDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Motor.TempSensor.Value
+ R Demo-Components-Base-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-Base-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-Base-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-P1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Contactor.Order
+ R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDo0 GetDo
+ W Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Contactor.Feedback
+ R Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-GetDi0 GetDi
+ R Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-P1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Motor.TempSwitch.Switch
+ R Demo-Components-Base-Plc-W-P1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Contactor.Feedback
+ R Demo-Components-Base-Simulate-W-P1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.CircuitBreaker.NotTripped
+ R Demo-Components-Base-Plc-W-P1-W-GetDi2 GetDi
+ R Demo-Components-Base-Simulate-W-P1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.SafetySwitch.On
+ R Demo-Components-Base-Plc-W-P1-W-GetDi1 GetDi
+ R Demo-Components-Base-Simulate-W-P1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.OverloadRelay.Overload
+ R Demo-Components-Base-Plc-W-P1-W-GetDi4 GetDi
+ R Demo-Components-Base-Simulate-W-P1-W-GetDi2 GetDi
+ R Demo-Components-Base-Plc-W-P1-W-OverloadRelay-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-ExtControl1
+ R Demo-Components-Base-Plc-W-GetDv54 GetDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-ExtStart1
+ R Demo-Components-Base-Plc-W-GetDv55 GetDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-ExtInterlock1
+ R Demo-Components-Base-Plc-W-GetDv56 GetDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-LocMode1
+ R Demo-Components-Base-Plc-W-GetDv57 GetDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-OpLocStart1
+ R Demo-Components-Base-Plc-W-GetDv58 GetDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-ResTrip1
+ R Demo-Components-Base-Plc-W-GetDv59 GetDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-On1
+ W Demo-Components-Base-Plc-W-StoDv34 StoDv
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-Err1
+ W Demo-Components-Base-Plc-W-StoDv35 StoDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Motor.TempSensor.Value
+ R Demo-Components-ABB-Plc-W-M1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-ABB-Plc-W-M1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-ABB-Plc-W-M1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.CircuitBreaker.NotTripped
+ R Demo-Components-ABB-Plc-W-M1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Contactor.Order
+ R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDo0 GetDo
+ W Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Contactor.Feedback
+ R Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-GetDi0 GetDi
+ R Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-GetDi1 GetDi
+ R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.SafetySwitch.On
+ R Demo-Components-ABB-Plc-W-M1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Motor.TempSwitch.Switch
+ R Demo-Components-ABB-Plc-W-M1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.InIdPar
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi9 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.InIndPar
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi10 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.InValuePar
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi8 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.StatusWordSW
+ W Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-StoIi2 StoIi
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi0 GetIi
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi1 GetIi
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi3 GetIi
+ R Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-GetIi0 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.Di6_1
+ W Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-StoIi3 StoIi
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi5 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.StatusWordSW3
+ W Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-StoIi4 StoIi
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi6 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.AlarmWord5
+ W Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-StoIi0 StoIi
+ R Demo-Components-ABB-Plc-W-M1-W-ACS800-W-GetIi4 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.OutIdPar
+ W Demo-Components-ABB-Plc-W-M1-W-ACS800-W-StoIo2 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.OutIndPar
+ W Demo-Components-ABB-Plc-W-M1-W-ACS800-W-StoIo3 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.OutValuePar
+ W Demo-Components-ABB-Plc-W-M1-W-ACS800-W-StoIo4 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.ControlWordCW
+ W Demo-Components-ABB-Plc-W-M1-W-ACS800-W-StoIo1 StoIo
+ R Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-GetIo0 GetIo
+ R Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-GetIo2 GetIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.RefSpeed
+ R Demo-Components-ABB-Sim-W-M1-W-ACS800_1Sim-W-GetAo0 GetAo
+ W Demo-Components-ABB-Plc-W-M1-W-ACS800-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.CircuitBreaker.NotTripped
+ R Demo-Components-ABB-Plc-W-M1-W-GetDi4 GetDi
+ R Demo-Components-ABB-Plc-W-M1-W-GetDi8 GetDi
+ R Demo-Components-ABB-Sim-W-M1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Contactor.Feedback
+ R Demo-Components-ABB-Sim-W-M1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.ACS800.StatusWordSW
+ R Demo-Components-ABB-Plc-W-M1-W-GetIi1 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.SafetySwitch.On
+ R Demo-Components-ABB-Plc-W-M1-W-GetDi1 GetDi
+ R Demo-Components-ABB-Plc-W-M1-W-GetDi7 GetDi
+ R Demo-Components-ABB-Sim-W-M1-W-GetDi1 GetDi
+ R Demo-Components-ABB-Sim-W-M1-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-RefSpeedExt1
+ R Demo-Components-ABB-Plc-W-GetAv0 GetAv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-RefSpeedLoc1
+ R Demo-Components-ABB-Plc-W-GetAv1 GetAv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-PowerInterlock1
+ R Demo-Components-ABB-Plc-W-GetDv0 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-ExtControl1
+ R Demo-Components-ABB-Plc-W-GetDv1 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-ExtStart1
+ R Demo-Components-ABB-Plc-W-GetDv2 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-ExtInterlock1
+ R Demo-Components-ABB-Plc-W-GetDv3 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-LocMode1
+ R Demo-Components-ABB-Plc-W-GetDv4 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-OpLocStart1
+ R Demo-Components-ABB-Plc-W-GetDv5 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-ResTrip1
+ R Demo-Components-ABB-Plc-W-GetDv6 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-On1
+ W Demo-Components-ABB-Plc-W-StoDv0 StoDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-Err1
+ W Demo-Components-ABB-Plc-W-StoDv1 StoDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Motor.TempSensor.Value
+ R Demo-Components-ABB-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-ABB-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-ABB-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.CircuitBreaker.NotTripped
+ R Demo-Components-ABB-Plc-W-P1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Contactor.Order
+ R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDo0 GetDo
+ W Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Contactor.Feedback
+ R Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-GetDi0 GetDi
+ R Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-GetDi1 GetDi
+ R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.SafetySwitch.On
+ R Demo-Components-ABB-Plc-W-P1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Motor.TempSwitch.Switch
+ R Demo-Components-ABB-Plc-W-P1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.InIdPar
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi9 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.InIndPar
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi10 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.InValuePar
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi8 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.StatusWordSW
+ W Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-StoIi2 StoIi
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi0 GetIi
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi1 GetIi
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi3 GetIi
+ R Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-GetIi0 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.Di6_1
+ W Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-StoIi3 StoIi
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi5 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.StatusWordSW3
+ W Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-StoIi4 StoIi
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi6 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.AlarmWord5
+ W Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-StoIi0 StoIi
+ R Demo-Components-ABB-Plc-W-P1-W-ACS800-W-GetIi4 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.OutIdPar
+ W Demo-Components-ABB-Plc-W-P1-W-ACS800-W-StoIo2 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.OutIndPar
+ W Demo-Components-ABB-Plc-W-P1-W-ACS800-W-StoIo3 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.OutValuePar
+ W Demo-Components-ABB-Plc-W-P1-W-ACS800-W-StoIo4 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.ControlWordCW
+ W Demo-Components-ABB-Plc-W-P1-W-ACS800-W-StoIo1 StoIo
+ R Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-GetIo0 GetIo
+ R Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-GetIo2 GetIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.RefSpeed
+ R Demo-Components-ABB-Sim-W-P1-W-ACS800_1Sim-W-GetAo0 GetAo
+ W Demo-Components-ABB-Plc-W-P1-W-ACS800-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.CircuitBreaker.NotTripped
+ R Demo-Components-ABB-Plc-W-P1-W-GetDi4 GetDi
+ R Demo-Components-ABB-Plc-W-P1-W-GetDi8 GetDi
+ R Demo-Components-ABB-Sim-W-P1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Contactor.Feedback
+ R Demo-Components-ABB-Sim-W-P1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.ACS800.StatusWordSW
+ R Demo-Components-ABB-Plc-W-P1-W-GetIi1 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.SafetySwitch.On
+ R Demo-Components-ABB-Plc-W-P1-W-GetDi1 GetDi
+ R Demo-Components-ABB-Plc-W-P1-W-GetDi7 GetDi
+ R Demo-Components-ABB-Sim-W-P1-W-GetDi1 GetDi
+ R Demo-Components-ABB-Sim-W-P1-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Motor.TempSensor.Value
+ R Demo-Components-ABB-Plc-W-F1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Components-ABB-Plc-W-F1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Components-ABB-Plc-W-F1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.CircuitBreaker.NotTripped
+ R Demo-Components-ABB-Plc-W-F1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Contactor.Order
+ R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDo0 GetDo
+ W Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-StoDo0 StoDo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Contactor.Feedback
+ R Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-GetDi0 GetDi
+ R Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-GetDi1 GetDi
+ R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.SafetySwitch.On
+ R Demo-Components-ABB-Plc-W-F1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Motor.TempSwitch.Switch
+ R Demo-Components-ABB-Plc-W-F1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.InIdPar
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi9 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.InIndPar
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi10 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.InValuePar
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi8 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.StatusWordSW
+ W Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-StoIi2 StoIi
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi0 GetIi
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi1 GetIi
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi3 GetIi
+ R Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-GetIi0 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.Di6_1
+ W Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-StoIi3 StoIi
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi5 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.StatusWordSW3
+ W Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-StoIi4 StoIi
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi6 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.AlarmWord5
+ W Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-StoIi0 StoIi
+ R Demo-Components-ABB-Plc-W-F1-W-ACS800-W-GetIi4 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.OutIdPar
+ W Demo-Components-ABB-Plc-W-F1-W-ACS800-W-StoIo2 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.OutIndPar
+ W Demo-Components-ABB-Plc-W-F1-W-ACS800-W-StoIo3 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.OutValuePar
+ W Demo-Components-ABB-Plc-W-F1-W-ACS800-W-StoIo4 StoIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.ControlWordCW
+ W Demo-Components-ABB-Plc-W-F1-W-ACS800-W-StoIo1 StoIo
+ R Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-GetIo0 GetIo
+ R Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-GetIo2 GetIo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.RefSpeed
+ R Demo-Components-ABB-Sim-W-F1-W-ACS800_1Sim-W-GetAo0 GetAo
+ W Demo-Components-ABB-Plc-W-F1-W-ACS800-W-StoAo0 StoAo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.CircuitBreaker.NotTripped
+ R Demo-Components-ABB-Plc-W-F1-W-GetDi4 GetDi
+ R Demo-Components-ABB-Plc-W-F1-W-GetDi8 GetDi
+ R Demo-Components-ABB-Sim-W-F1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Contactor.Feedback
+ R Demo-Components-ABB-Sim-W-F1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.ACS800.StatusWordSW
+ R Demo-Components-ABB-Plc-W-F1-W-GetIi1 GetIi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.SafetySwitch.On
+ R Demo-Components-ABB-Plc-W-F1-W-GetDi1 GetDi
+ R Demo-Components-ABB-Plc-W-F1-W-GetDi7 GetDi
+ R Demo-Components-ABB-Sim-W-F1-W-GetDi1 GetDi
+ R Demo-Components-ABB-Sim-W-F1-W-GetDi4 GetDi
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-RefSpeedExt1
+ R Demo-Components-ABB-Plc-W-GetAv2 GetAv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-RefSpeedLoc1
+ R Demo-Components-ABB-Plc-W-GetAv3 GetAv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-PowerInterlock1
+ R Demo-Components-ABB-Plc-W-GetDv7 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-ExtControl1
+ R Demo-Components-ABB-Plc-W-GetDv8 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-ExtStart1
+ R Demo-Components-ABB-Plc-W-GetDv9 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-ExtInterlock1
+ R Demo-Components-ABB-Plc-W-GetDv10 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-LocMode1
+ R Demo-Components-ABB-Plc-W-GetDv11 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-OpLocStart1
+ R Demo-Components-ABB-Plc-W-GetDv12 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-ResTrip1
+ R Demo-Components-ABB-Plc-W-GetDv13 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-On1
+ W Demo-Components-ABB-Plc-W-StoDv2 StoDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-Err1
+ W Demo-Components-ABB-Plc-W-StoDv3 StoDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-RefSpeedExt1
+ R Demo-Components-ABB-Plc-W-GetAv4 GetAv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-RefSpeedLoc1
+ R Demo-Components-ABB-Plc-W-GetAv5 GetAv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-PowerInterlock1
+ R Demo-Components-ABB-Plc-W-GetDv14 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-ExtControl1
+ R Demo-Components-ABB-Plc-W-GetDv15 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-ExtStart1
+ R Demo-Components-ABB-Plc-W-GetDv16 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-ExtInterlock1
+ R Demo-Components-ABB-Plc-W-GetDv17 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-LocMode1
+ R Demo-Components-ABB-Plc-W-GetDv18 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-OpLocStart1
+ R Demo-Components-ABB-Plc-W-GetDv19 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-ResTrip1
+ R Demo-Components-ABB-Plc-W-GetDv20 GetDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-On1
+ W Demo-Components-ABB-Plc-W-StoDv4 StoDv
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-Err1
+ W Demo-Components-ABB-Plc-W-StoDv5 StoDv
+VolPwrDemo:Demo-Process-LevelControl-P1.Motor.TempSensor.Value
+ R Demo-Process-LevelControl-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Process-LevelControl-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Process-LevelControl-Plc-W-P1-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Process-LevelControl-P1.CircuitBreaker.NotTripped
+ R Demo-Process-LevelControl-Plc-W-P1-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.Order
+ R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDo0 GetDo
+ W Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-StoDo0 StoDo
+VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.Feedback
+ R Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-GetDi0 GetDi
+ R Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-GetDi1 GetDi
+ R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.SafetySwitch.On
+ R Demo-Process-LevelControl-Plc-W-P1-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.Motor.TempSwitch.Switch
+ R Demo-Process-LevelControl-Plc-W-P1-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.Feedback
+ R Demo-Process-LevelControl-Simulate-W-P1-W-GetDi3 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.CircuitBreaker.NotTripped
+ R Demo-Process-LevelControl-Plc-W-P1-W-GetDi2 GetDi
+ R Demo-Process-LevelControl-Simulate-W-P1-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.SafetySwitch.On
+ R Demo-Process-LevelControl-Plc-W-P1-W-GetDi1 GetDi
+ R Demo-Process-LevelControl-Simulate-W-P1-W-GetDi1 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.OverloadRelay.Overload
+ R Demo-Process-LevelControl-Plc-W-P1-W-GetDi4 GetDi
+ R Demo-Process-LevelControl-Simulate-W-P1-W-GetDi2 GetDi
+ R Demo-Process-LevelControl-Plc-W-P1-W-OverloadRelay-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.Feedback
+ R Demo-Process-LevelControl-Simulate-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-LevelControl-MV1.Order
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDo0 GetDo
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDo1 GetDo
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDo2 GetDo
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDo3 GetDo
+ R Demo-Process-LevelControl-Simulate-W-MV1-W-GetDo0 GetDo
+ R Demo-Process-LevelControl-Simulate-W-MV1-W-GetDo1 GetDo
+ W Demo-Process-LevelControl-Plc-W-MV1-W-StoDo0 StoDo
+VolPwrDemo:Demo-Process-LevelControl-MV1.SwitchOpen
+ R Demo-Process-LevelControl-Simulate-W-GetDi1 GetDi
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDi0 GetDi
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDi3 GetDi
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDi4 GetDi
+VolPwrDemo:Demo-Process-LevelControl-MV1.SwitchClosed
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDi1 GetDi
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDi2 GetDi
+ R Demo-Process-LevelControl-Plc-W-MV1-W-GetDi5 GetDi
+VolPwrDemo:Demo-Process-LevelControl-LC1.Value
+ R Demo-Process-LevelControl-Plc-W-LC1-W-GetAi0 GetAi
+ R Demo-Process-LevelControl-Plc-W-LC1-W-GetAi2 GetAi
+ R Demo-Process-LevelControl-Plc-W-LC1-W-GetAi3 GetAi
+ W Nodes-DemoNode-Op-LevelContol XttGraph
+ R Nodes-DemoNode-Op-LevelContol XttGraph
+VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.Order
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo0 GetAo
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo1 GetAo
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo2 GetAo
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo3 GetAo
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo4 GetAo
+ W Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-StoAo0 StoAo
+VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.Position
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAi0 GetAi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAi2 GetAi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAi3 GetAi
+VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.SwitchOpen
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi0 GetDi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi3 GetDi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi4 GetDi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi7 GetDi
+VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.SwitchClosed
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi1 GetDi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi2 GetDi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi5 GetDi
+ R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetDi6 GetDi
+VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.Order
+ R Demo-Process-LevelControl-Simulate-W-GetAo0 GetAo
+ R Demo-Process-LevelControl-Simulate-W-CV1-W-GetAo0 GetAo
+ R Demo-Process-LevelControl-Simulate-W-CV1-W-GetAo1 GetAo
+ R Demo-Process-LevelControl-Simulate-W-CV1-W-GetAo2 GetAo
+ W Nodes-DemoNode-Op-LevelContol XttGraph
+VolPwrDemo:Demo-Process-LevelControl-Start
+ W Demo-Process-LevelControl-Plc-W-ResDv0 ResDv
+ R Demo-Process-LevelControl-Plc-W-GetDv0 GetDv
+ R Demo-Process-LevelControl-Plc-W-GetDv2 GetDv
+ W Nodes-DemoNode-Op-LevelContol XttGraph
+VolPwrDemo:Demo-Process-LevelControl-Stop
+ W Demo-Process-LevelControl-Plc-W-ResDv1 ResDv
+ R Demo-Process-LevelControl-Plc-W-GetDv1 GetDv
+ R Demo-Process-LevelControl-Plc-W-GetDv3 GetDv
+ W Nodes-DemoNode-Op-LevelContol XttGraph
+VolPwrDemo:Demo-Process-LevelControl-Reset
+ R Demo-Process-LevelControl-Plc PlcPgm
+ W Demo-Process-LevelControl-Plc-W-SetDv0 SetDv
+ W Demo-Process-LevelControl-Plc-W-SetDv1 SetDv
+ W Demo-Process-LevelControl-Plc-W-ResDv2 ResDv
+ R Demo-Process-LevelControl-Plc-W-GetDv4 GetDv
+VolPwrDemo:Demo-Process-TemperatureControl-Start
+ W Demo-Process-TemperatureControl-Plc-W-ResDv0 ResDv
+ R Demo-Process-TemperatureControl-Plc-W-GetDv0 GetDv
+ R Demo-Process-TemperatureControl-Plc-W-GetDv2 GetDv
+ W Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Stop
+ W Demo-Process-TemperatureControl-Plc-W-ResDv1 ResDv
+ R Demo-Process-TemperatureControl-Plc-W-GetDv1 GetDv
+ R Demo-Process-TemperatureControl-Plc-W-GetDv3 GetDv
+ W Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Reset
+ R Demo-Process-TemperatureControl-Plc PlcPgm
+ W Demo-Process-TemperatureControl-Plc-W-ResDv2 ResDv
+ W Demo-Process-TemperatureControl-Plc-W-StoDv0 StoDv
+ W Demo-Process-TemperatureControl-Plc-W-StoDv1 StoDv
+ W Demo-Process-TemperatureControl-Plc-W-StoDv2 StoDv
+ R Demo-Process-TemperatureControl-Plc-W-GetDv4 GetDv
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Motor.TempSensor.Value
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.CircuitBreaker.NotTripped
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Contactor.Order
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDo0 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-StoDo0 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Contactor.Feedback
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-GetDi0 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.SafetySwitch.On
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Motor.TempSwitch.Switch
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.InIdPar
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi9 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.InIndPar
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi10 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.InValuePar
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi8 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.StatusWordSW
+ W Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-StoIi2 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi0 GetIi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi1 GetIi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi3 GetIi
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-GetIi0 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.Di6_1
+ W Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-StoIi3 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi5 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.StatusWordSW3
+ W Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-StoIi4 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi6 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.AlarmWord5
+ W Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-StoIi0 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-GetIi4 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.OutIdPar
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-StoIo2 StoIo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.OutIndPar
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-StoIo3 StoIo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.OutValuePar
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-StoIo4 StoIo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.ControlWordCW
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-StoIo1 StoIo
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-GetIo0 GetIo
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-GetIo2 GetIo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.RefSpeed
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ACS800_1Sim-W-GetAo0 GetAo
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-StoAo0 StoAo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.CircuitBreaker.NotTripped
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-GetDi4 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-GetDi8 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Contactor.Feedback
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-GetDi3 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.StatusWordSW
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-GetIi1 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.SafetySwitch.On
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-GetDi7 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-GetDi4 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.ACS800.ActSpeed
+ R Demo-Process-TemperatureControl-Simulate-W-GetAi0 GetAi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Motor.TempSensor.Value
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-Motor-W-TempSensor-W-GetAi0 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-Motor-W-TempSensor-W-GetAi2 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-Motor-W-TempSensor-W-GetAi3 GetAi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.CircuitBreaker.NotTripped
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-CircuitBreaker-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Contactor.Order
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDo0 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-StoDo0 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Contactor.Feedback
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-GetDi0 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.SafetySwitch.On
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-SafetySwitch-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Motor.TempSwitch.Switch
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-Motor-W-TempSwitch-W-GetDi1 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.InIdPar
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi9 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.InIndPar
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi10 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.InValuePar
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi8 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.StatusWordSW
+ W Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-StoIi2 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi0 GetIi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi1 GetIi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi3 GetIi
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-GetIi0 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.Di6_1
+ W Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-StoIi3 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi5 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.StatusWordSW3
+ W Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-StoIi4 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi6 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.AlarmWord5
+ W Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-StoIi0 StoIi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-GetIi4 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.OutIdPar
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-StoIo2 StoIo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.OutIndPar
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-StoIo3 StoIo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.OutValuePar
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-StoIo4 StoIo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.ControlWordCW
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-StoIo1 StoIo
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-GetIo0 GetIo
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-GetIo2 GetIo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.RefSpeed
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ACS800_1Sim-W-GetAo0 GetAo
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-ACS800-W-StoAo0 StoAo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.CircuitBreaker.NotTripped
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-GetDi4 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-GetDi8 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-GetDi0 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Contactor.Feedback
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-GetDi3 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.StatusWordSW
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-GetIi1 GetIi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.SafetySwitch.On
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasFan-W-GetDi7 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-GetDi4 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.ACS800.ActSpeed
+ R Demo-Process-TemperatureControl-Simulate-W-GetAi1 GetAi
+VolPwrDemo:Demo-Process-TemperatureControl-GasValve.Order
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDo0 GetDo
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDo1 GetDo
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDo2 GetDo
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDo3 GetDo
+ R Demo-Process-TemperatureControl-Simulate-W-GasValve-W-GetDo0 GetDo
+ R Demo-Process-TemperatureControl-Simulate-W-GasValve-W-GetDo1 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-GasValve-W-StoDo0 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-GasValve.SwitchOpen
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDi0 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDi3 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDi4 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasValve.SwitchClosed
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDi2 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GasValve-W-GetDi5 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasValve.SwitchOpen
+ R Demo-Process-TemperatureControl-Plc-W-GetDi0 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GetDi9 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-AirPressureSwitch.Switch
+ R Demo-Process-TemperatureControl-Plc-W-AirPressureSwitch-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GetDi2 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-GasPressureSwitch.Switch
+ R Demo-Process-TemperatureControl-Plc-W-SupSwitchFo11-W-GetDi1 GetDi
+ R Demo-Process-TemperatureControl-Plc-W-GetDi1 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-Burner1-AirValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner1-GasValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner1-BCU_Order
+ R Demo-Process-TemperatureControl-Simulate-W-GetDo0 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-StoDo0 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-Burner1-BCU_Alarm
+ R Demo-Process-TemperatureControl-Plc-W-GetDi3 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-Burner6-AirValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner6-GasValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner6-BCU_Order
+ R Demo-Process-TemperatureControl-Simulate-W-GetDo5 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-StoDo5 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-Burner6-BCU_Alarm
+ R Demo-Process-TemperatureControl-Plc-W-GetDi8 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-Burner5-AirValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner5-GasValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner5-BCU_Order
+ R Demo-Process-TemperatureControl-Simulate-W-GetDo4 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-StoDo4 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-Burner5-BCU_Alarm
+ R Demo-Process-TemperatureControl-Plc-W-GetDi7 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-Burner4-AirValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner4-GasValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner4-BCU_Order
+ R Demo-Process-TemperatureControl-Simulate-W-GetDo3 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-StoDo3 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-Burner4-BCU_Alarm
+ R Demo-Process-TemperatureControl-Plc-W-GetDi6 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-Burner3-AirValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner3-GasValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner3-BCU_Order
+ R Demo-Process-TemperatureControl-Simulate-W-GetDo2 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-StoDo2 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-Burner3-BCU_Alarm
+ R Demo-Process-TemperatureControl-Plc-W-GetDi5 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-Burner2-AirValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner2-GasValve.SwitchClosed
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-Burner2-BCU_Order
+ R Demo-Process-TemperatureControl-Simulate-W-GetDo1 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-StoDo1 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-Burner2-BCU_Alarm
+ R Demo-Process-TemperatureControl-Plc-W-GetDi4 GetDi
+VolPwrDemo:Demo-Process-TemperatureControl-AirPressureSensor.Value
+ R Demo-Process-TemperatureControl-Plc-W-AirPressureSensor-W-GetAi0 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-AirPressureSensor-W-GetAi2 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-AirPressureSensor-W-GetAi3 GetAi
+ W Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-GasPressureSensor.Value
+ R Demo-Process-TemperatureControl-Plc-W-GasPressureSensor-W-GetAi0 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-GasPressureSensor-W-GetAi2 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-GasPressureSensor-W-GetAi3 GetAi
+ W Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-TemperatureSensor.Value
+ R Demo-Process-TemperatureControl-Plc-W-TemperatureSensor-W-GetAi0 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-TemperatureSensor-W-GetAi2 GetAi
+ R Demo-Process-TemperatureControl-Plc-W-TemperatureSensor-W-GetAi3 GetAi
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ W Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-NoOfBurningBurners
+ W Demo-Process-TemperatureControl-Plc-W-StoIv0 StoIv
+ R Nodes-DemoNode-Op-TemperatureControl XttGraph
+VolPwrDemo:Demo-Process-TemperatureControl-State
+ W Demo-Process-TemperatureControl-Plc-W-CStoIv0 CStoIv
+ W Demo-Process-TemperatureControl-Plc-W-CStoIv1 CStoIv
+ W Demo-Process-TemperatureControl-Plc-W-CStoIv2 CStoIv
+ W Demo-Process-TemperatureControl-Plc-W-CStoIv3 CStoIv
+ W Demo-Process-TemperatureControl-Plc-W-CStoIv4 CStoIv
+ W Nodes-DemoNode-Op-TemperatureControl XttGraph
