@@ -35,11 +35,11 @@ if [ ! -e $pwrp_root/bld/x86_64_linux/lis ]; then
   mkdir $pwrp_root/bld/x86_64_linux/lis
 fi
 
-echo "*"
-echo "* Load directory volume"
-echo "*"
-wb_cmd create volume/directory
-wb_cmd wb load /load=\"$pwrp_db/directory.wb_dmp\"
+#echo "*"
+#echo "* Load directory volume"
+#echo "*"
+#wb_cmd create volume/directory
+#wb_cmd wb load /load=\"$pwrp_db/directory.wb_dmp\"
 
 echo "*"
 echo "* Edit directory volume"

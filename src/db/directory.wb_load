@@ -13,8 +13,8 @@ Volume directory $DirectoryVolume 254.254.254.253
       Attr BusNumber = 999
     EndBody
     Object DemoNode NodeConfig 10 11-MAY-2006 15:40:05.54
-      Body RtBody 05-MAR-2008 11:22:55.46
-        Attr NodeName = "pwr42"
+      Body RtBody 06-FEB-2010 16:24:27.10
+        Attr NodeName = "claes-desktop"
         Attr OperatingSystem = 64
         Attr Address = "127.0.0.1"
       EndBody
