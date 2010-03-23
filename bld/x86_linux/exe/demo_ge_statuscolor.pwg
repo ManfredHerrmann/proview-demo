@@ -4,8 +4,8 @@
 101 20
 102 -40
 103 -158
-104 3.7377
-136 3.7377
+104 3.75618
+136 3.75618
 105 100
 106 -7
 107 -29
@@ -29,6 +29,8 @@
 132 3
 133 2
 137 4510
+138 3
+139 2
 134
 22
 2200 0
@@ -280,6 +282,7 @@ pwr_exe:
 2416 2
 2414 1
 2417 0
+2421 0
 2418 0
 2419 2
 2420 0
@@ -329,6 +332,7 @@ pwr_exe:
 2416 2
 2414 1
 2417 0
+2421 0
 2418 0
 2419 2
 2420 0
@@ -835,6 +839,7 @@ pwr_exe:
 2416 2
 2414 0
 2417 1
+2421 0
 2418 0
 2419 4
 2420 1
@@ -2440,11 +2445,14 @@ pwr_exe:
 2721
 1
 100 0
-101 64
+101 2097152
 102 65533
 103 0
-55
-5500 set par/name=Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue/val=0/bypass
+70
+7000 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##UInt32
+7001 0
+7002 1
+7003 1
 99
 99
 99
@@ -2782,11 +2790,14 @@ pwr_exe:
 2721
 1
 100 0
-101 64
+101 2097152
 102 65533
 103 0
-55
-5500 set par/name=Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue/val=134512649/bypass
+70
+7000 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##UInt32
+7001 134512649
+7002 1
+7003 1
 99
 99
 99
@@ -2911,11 +2922,14 @@ pwr_exe:
 2721
 1
 100 1
-101 64
+101 2097152
 102 33619967
 103 0
-55
-5500 set par/name=Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue/val=134512704/bypass
+70
+7000 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##UInt32
+7001 134512704
+7002 1
+7003 1
 99
 99
 99
@@ -3040,11 +3054,14 @@ pwr_exe:
 2721
 1
 100 1
-101 64
+101 2097152
 102 33619967
 103 0
-55
-5500 set par/name=Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue/val=134512690/bypass
+70
+7000 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##UInt32
+7001 134512690
+7002 1
+7003 1
 99
 99
 99
@@ -3169,11 +3186,14 @@ pwr_exe:
 2721
 1
 100 1
-101 64
+101 2097152
 102 33619967
 103 0
-55
-5500 set par/name=Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue/val=134512700/bypass
+70
+7000 Demo-Ge-Dynamics-StatusColor-Iv1.ActualValue##UInt32
+7001 134512700
+7002 1
+7003 1
 99
 99
 99
