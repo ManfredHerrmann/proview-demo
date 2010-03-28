@@ -3,6 +3,8 @@
 # Build pwrdemo from git clone
 #
 
+chmod -R u+w $pwrp_root/.git
+
 echo "* Create directories"
 if [ ! -e $pwrp_root/bld/common/tmp ]; then
   mkdir $pwrp_root/bld/common/tmp
