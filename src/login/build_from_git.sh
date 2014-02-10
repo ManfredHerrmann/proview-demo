@@ -35,6 +35,11 @@ echo "*"
 cp $pwrp_pop/*.png $pwrp_exe/
 cp $pwrp_pop/*.png $pwrp_web/
 
+echo "*"
+echo "* Copy trace files"
+echo "*"
+cp $pwrp_load/*.flw $pwrp_web/
+
 #echo "*"
 #echo "* Load directory volume"
 #echo "*"
