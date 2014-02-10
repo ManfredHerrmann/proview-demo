@@ -21,3 +21,13 @@ plc_v*.dat
 *.log
 *.bck
 rt_evenlog_info.txt
+bld/common/web/*.png
+bld/common/web/*.pwg
+bld/x86_linux/exe/*.png
+bld/x86_linux/exe/*.pwg
+bld/x86_64_linux/exe/*.png
+bld/x86_64_linux/exe/*.pwg
+bld/arm_linux/exe/*.png
+bld/arm_linux/exe/*.pwg
+bld/x86_64_macos/exe/*.png
+bld/x86_64_macos/exe/*.pwg

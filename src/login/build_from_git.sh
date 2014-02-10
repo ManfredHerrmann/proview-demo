@@ -9,33 +9,31 @@ echo "* Create directories"
 if [ ! -e $pwrp_root/bld/common/tmp ]; then
   mkdir $pwrp_root/bld/common/tmp
 fi
-if [ ! -e $pwrp_root/bld/x86_linux/obj ]; then
-  mkdir $pwrp_root/bld/x86_linux/obj
+if [ ! -e $pwrp_obj ]; then
+  mkdir -p $pwrp_obj
 fi
-if [ ! -e $pwrp_root/bld/x86_64_linux ]; then
-  mkdir $pwrp_root/bld/x86_64_linux
+if [ ! -e $pwrp_exe ]; then
+  mkdir $pwrp_exe
 fi
-if [ ! -e $pwrp_root/bld/x86_64_linux/obj ]; then
-  mkdir $pwrp_root/bld/x86_64_linux/obj
+if [ ! -e $pwrp_lib ]; then
+  mkdir $pwrp_lib
 fi
-if [ ! -e $pwrp_root/bld/x86_linux/exe ]; then
-  mkdir $pwrp_root/bld/x86_linux/exe
+if [ ! -e $pwrp_lis ]; then
+  mkdir $pwrp_lis
 fi
-if [ ! -e $pwrp_root/bld/x86_64_linux/exe ]; then
-  mkdir $pwrp_root/bld/x86_64_linux/exe
-fi
-if [ ! -e $pwrp_root/bld/x86_linux/lib ]; then
-  mkdir $pwrp_root/bld/x86_linux/lib
-fi
-if [ ! -e $pwrp_root/bld/x86_64_linux/lib ]; then
-  mkdir $pwrp_root/bld/x86_64_linux/lib
-fi
-if [ ! -e $pwrp_root/bld/x86_linux/lis ]; then
-  mkdir $pwrp_root/bld/x86_linux/lis
-fi
-if [ ! -e $pwrp_root/bld/x86_64_linux/lis ]; then
-  mkdir $pwrp_root/bld/x86_64_linux/lis
-fi
+
+
+echo "*"
+echo "* Copy pwg files"
+echo "*"
+cp $pwrp_pop/*.pwg $pwrp_exe/
+cp $pwrp_pop/*.pwg $pwrp_web/
+
+echo "*"
+echo "* Copy image files"
+echo "*"
+cp $pwrp_pop/*.png $pwrp_exe/
+cp $pwrp_pop/*.png $pwrp_web/
 
 #echo "*"
 #echo "* Load directory volume"
