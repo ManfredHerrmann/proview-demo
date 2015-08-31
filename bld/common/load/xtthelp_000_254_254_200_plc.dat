@@ -1,0 +1,48 @@
+<topic> index
+PlcPgm List
+Demo-Ge-Dynamics-Plc <t><t><link> plcw_000_254_254_200_00000005,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Components-Base-Plc <t><t><link> plcw_000_254_254_200_000002de,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Components-Base-Simulate <t><t><link> plcw_000_254_254_200_000002e2,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Components-ABB-Plc <t><t><link> plcw_000_254_254_200_0000300d,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Components-ABB-Sim <t><t><link> plcw_000_254_254_200_00003048,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Process-LevelControl-Plc <t><t><link> plcw_000_254_254_200_00004791,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Process-LevelControl-Simulate <t><t><link> plcw_000_254_254_200_000047e2,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Process-TemperatureControl-Plc <t><t><link> plcw_000_254_254_200_0000d857,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Process-TemperatureControl-Simulate <t><t><link> plcw_000_254_254_200_0000d908,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+Demo-Ge-Subgraphs-Plc <t><t><link> plcw_000_254_254_200_00043473,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+</topic>
+
+<topic> plcw_000_254_254_200_00000005
+Demo-Ge-Dynamics-Plc-W
+CSub0-W <link>plcw_000_254_254_200_0000000a,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
+
+<h1>Demo Ge Dynamics
+This program contains the code for some dynamic types where calculations are added to
+make the demo more intelligible.
+
+<h2>DigColor
+To display the instance function, a demo with 32 colors is made int he DigColor presentation.
+The colors can be set by push buttons, but also with a slider. The conversion from the 
+analog slider value to digital values are made in the sub window CSub0.
+
+<h2>Demo graph
+In some dynamics or actions a demo graph is opened with flashing indicators. The flashing
+is controlled by a grafset sequence in page 2.
+</topic>
+<topic> plcw_000_254_254_200_00043473
+Demo-Ge-Subgraphs-Plc-W
+<h1>Demo Subgraph
+This program contains the code for some objects where calculations are added to
+make the demo more intelligible.
+
+<h2>BarChart
+The bar chart demo contains 100 bars with 4 segments each, ie 400 values are displayed
+in the graph. It's impossible to set all 400 values from the demo, so the values for each
+segment is calculated from a single Av value. The four Av values are set with slider in the demo
+and from these the segment length are calculated in the shape of sinus curves of proporional lines.
+
+<h2>XYCurve
+The x and y coordinates for the four curves are also calculated from four Av values in the same
+manner as for the BarChart above.
+
+</topic>
