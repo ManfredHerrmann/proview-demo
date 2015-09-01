@@ -29,20 +29,3 @@ analog slider value to digital values are made in the sub window CSub0.
 In some dynamics or actions a demo graph is opened with flashing indicators. The flashing
 is controlled by a grafset sequence in page 2.
 </topic>
-<topic> plcw_000_254_254_200_00043473
-Demo-Ge-Subgraphs-Plc-W
-<h1>Demo Subgraph
-This program contains the code for some objects where calculations are added to
-make the demo more intelligible.
-
-<h2>BarChart
-The bar chart demo contains 100 bars with 4 segments each, ie 400 values are displayed
-in the graph. It's impossible to set all 400 values from the demo, so the values for each
-segment is calculated from a single Av value. The four Av values are set with slider in the demo
-and from these the segment length are calculated in the shape of sinus curves of proporional lines.
-
-<h2>XYCurve
-The x and y coordinates for the four curves are also calculated from four Av values in the same
-manner as for the BarChart above.
-
-</topic>

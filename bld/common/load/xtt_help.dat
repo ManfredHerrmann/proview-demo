@@ -55,6 +55,7 @@ Ge Dynamics and Actions
 <b>DigBorder <link>Ge_DigBorder
 <b>DigText <link>Ge_DigText
 <b>AnalogText <link>Ge_AnalogText
+<b>ScrollingText <link>Ge_ScrollingText
 <b>Value <link>Ge_Value
 <b>Rotate <link>Ge_Rotate
 <b>Move <link>Ge_Move
@@ -273,6 +274,16 @@ the slider.
 Eight texts are specified, and for each text, also an enumeration value. When
 the value of the attribute equals an enumeration value, the corresponding text
 is displayed in the textfield.
+</topic>
+
+<topic>Ge_ScrollingText
+Demo ScrollingText
+
+The two text field have the dynamic ScrollingText, and is connected to a string
+attribute.
+
+You can change the value of the string attribute from the 'ScrollingText.Attribute'
+input field.
 </topic>
 
 <topic>Ge_Value
