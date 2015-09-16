@@ -95,6 +95,13 @@ echo "* Copy trace files"
 echo "*"
 cp $pwrp_load/*.flw $pwrp_web/
 
+echo "*"
+echo "* Copy jar files"
+echo "*"
+cp $pwr_lib/pwr_rt_client.jar $pwrp_web/
+cp $pwr_lib/pwr_jop.jar $pwrp_web/
+cp $pwr_lib/pwr_jopg.jar $pwrp_web/
+
 #echo "*"
 #echo "* Load directory volume"
 #echo "*"
