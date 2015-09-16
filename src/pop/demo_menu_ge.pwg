@@ -19,7 +19,7 @@
 117 2
 118 27
 119 26
-120 1
+120 0
 121 Claes context
 122 0
 126 0.2
@@ -609,7 +609,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_diglowcolor"
+5500 set subwindow $current/name=main/source="demo_ge_diglowcolor"
 99
 99
 99
@@ -741,7 +741,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digcolor"
+5500 set subwindow $current/name=main/source="demo_ge_digcolor"
 99
 99
 99
@@ -873,7 +873,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_analogcolor"
+5500 set subwindow $current/name=main/source="demo_ge_analogcolor"
 99
 99
 99
@@ -1005,7 +1005,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_statuscolor"
+5500 set subwindow $current/name=main/source="demo_ge_statuscolor"
 99
 99
 99
@@ -1137,7 +1137,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digwarning"
+5500 set subwindow $current/name=main/source="demo_ge_digwarning"
 99
 99
 99
@@ -1269,7 +1269,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digerror"
+5500 set subwindow $current/name=main/source="demo_ge_digerror"
 99
 99
 99
@@ -1401,7 +1401,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digflash"
+5500 set subwindow $current/name=main/source="demo_ge_digflash"
 99
 99
 99
@@ -1533,7 +1533,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_filllevel"
+5500 set subwindow $current/name=main/source="demo_ge_filllevel"
 99
 99
 99
@@ -1665,7 +1665,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_invisible"
+5500 set subwindow $current/name=main/source="demo_ge_invisible"
 99
 99
 99
@@ -1797,7 +1797,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digborder"
+5500 set subwindow $current/name=main/source="demo_ge_digborder"
 99
 99
 99
@@ -1929,7 +1929,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digtext"
+5500 set subwindow $current/name=main/source="demo_ge_digtext"
 99
 99
 99
@@ -2061,7 +2061,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_analogtext"
+5500 set subwindow $current/name=main/source="demo_ge_analogtext"
 99
 99
 99
@@ -2193,7 +2193,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_value"
+5500 set subwindow $current/name=main/source="demo_ge_value"
 99
 99
 99
@@ -2325,7 +2325,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_rotate"
+5500 set subwindow $current/name=main/source="demo_ge_rotate"
 99
 99
 99
@@ -2457,7 +2457,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_move"
+5500 set subwindow $current/name=main/source="demo_ge_move"
 99
 99
 99
@@ -2589,7 +2589,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_analogshift"
+5500 set subwindow $current/name=main/source="demo_ge_analogshift"
 99
 99
 99
@@ -2721,7 +2721,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digshift"
+5500 set subwindow $current/name=main/source="demo_ge_digshift"
 99
 99
 99
@@ -2853,7 +2853,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_animation"
+5500 set subwindow $current/name=main/source="demo_ge_animation"
 99
 99
 99
@@ -2985,7 +2985,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_hostobject"
+5500 set subwindow $current/name=main/source="demo_ge_hostobject"
 99
 99
 99
@@ -3117,7 +3117,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digsound"
+5500 set subwindow $current/name=main/source="demo_ge_digsound"
 99
 99
 99
@@ -3378,7 +3378,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_popupmenu"
+5500 set subwindow $current/name=main/source="demo_ge_popupmenu"
 99
 99
 99
@@ -3510,7 +3510,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_setdig"
+5500 set subwindow $current/name=main/source="demo_ge_setdig"
 99
 99
 99
@@ -3642,7 +3642,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_resetdig"
+5500 set subwindow $current/name=main/source="demo_ge_resetdig"
 99
 99
 99
@@ -3774,7 +3774,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_toggledig"
+5500 set subwindow $current/name=main/source="demo_ge_toggledig"
 99
 99
 99
@@ -3906,7 +3906,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_stodig"
+5500 set subwindow $current/name=main/source="demo_ge_stodig"
 99
 99
 99
@@ -4038,7 +4038,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_command"
+5500 set subwindow $current/name=main/source="demo_ge_command"
 99
 99
 99
@@ -4170,7 +4170,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_commanddoubleclick"
+5500 set subwindow $current/name=main/source="demo_ge_commanddoubleclick"
 99
 99
 99
@@ -4302,7 +4302,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_help"
+5500 set subwindow $current/name=main/source="demo_ge_help"
 99
 99
 99
@@ -4434,7 +4434,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_opengraph"
+5500 set subwindow $current/name=main/source="demo_ge_opengraph"
 99
 99
 99
@@ -4566,7 +4566,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_closegraph"
+5500 set subwindow $current/name=main/source="demo_ge_closegraph"
 99
 99
 99
@@ -4698,7 +4698,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_openurl"
+5500 set subwindow $current/name=main/source="demo_ge_openurl"
 99
 99
 99
@@ -4830,7 +4830,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_confirm"
+5500 set subwindow $current/name=main/source="demo_ge_confirm"
 99
 99
 99
@@ -4962,7 +4962,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_incranalog"
+5500 set subwindow $current/name=main/source="demo_ge_incranalog"
 99
 99
 99
@@ -5094,7 +5094,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_radiobutton"
+5500 set subwindow $current/name=main/source="demo_ge_radiobutton"
 99
 99
 99
@@ -5226,7 +5226,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_valueinput"
+5500 set subwindow $current/name=main/source="demo_ge_valueinput"
 99
 99
 99
@@ -5358,7 +5358,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_tooltip"
+5500 set subwindow $current/name=main/source="demo_ge_tooltip"
 99
 99
 99
@@ -5490,7 +5490,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_inputfocus"
+5500 set subwindow $current/name=main/source="demo_ge_inputfocus"
 99
 99
 99
@@ -5622,7 +5622,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_pulldownmenu"
+5500 set subwindow $current/name=main/source="demo_ge_pulldownmenu"
 99
 99
 99
@@ -5754,7 +5754,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_optionmenu"
+5500 set subwindow $current/name=main/source="demo_ge_optionmenu"
 99
 99
 99
@@ -5886,7 +5886,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_tone"
+5500 set subwindow $current/name=main/source="demo_ge_tone"
 99
 99
 99
@@ -6276,7 +6276,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_trend"
+5500 set subwindow $current/name=main/source="demo_ge_sub_trend"
 99
 99
 99
@@ -6408,7 +6408,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_bar"
+5500 set subwindow $current/name=main/source="demo_ge_sub_bar"
 99
 99
 99
@@ -6540,7 +6540,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_axis"
+5500 set subwindow $current/name=main/source="demo_ge_sub_axis"
 99
 99
 99
@@ -6801,7 +6801,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_actuator"
+5500 set subwindow $current/name=main/source="demo_ge_sub_actuator"
 99
 99
 99
@@ -6933,7 +6933,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_basevalve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_basevalve"
 99
 99
 99
@@ -7065,7 +7065,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_basevalve2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_basevalve2"
 99
 99
 99
@@ -7326,7 +7326,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_needle"
+5500 set subwindow $current/name=main/source="demo_ge_sub_needle"
 99
 99
 99
@@ -7458,7 +7458,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pc"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pc"
 99
 99
 99
@@ -7590,7 +7590,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pulpet"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pulpet"
 99
 99
 99
@@ -7722,7 +7722,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_burner"
+5500 set subwindow $current/name=main/source="demo_ge_sub_burner"
 99
 99
 99
@@ -7854,7 +7854,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fan"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fan"
 99
 99
 99
@@ -7986,7 +7986,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fan2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fan2"
 99
 99
 99
@@ -8118,7 +8118,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fan3"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fan3"
 99
 99
 99
@@ -8250,7 +8250,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fananim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fananim"
 99
 99
 99
@@ -8382,7 +8382,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fananim2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fananim2"
 99
 99
 99
@@ -8514,7 +8514,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_handwheel"
+5500 set subwindow $current/name=main/source="demo_ge_sub_handwheel"
 99
 99
 99
@@ -8646,7 +8646,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_motor"
+5500 set subwindow $current/name=main/source="demo_ge_sub_motor"
 99
 99
 99
@@ -8778,7 +8778,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_motor2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_motor2"
 99
 99
 99
@@ -8910,7 +8910,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_motoranim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_motoranim"
 99
 99
 99
@@ -9042,7 +9042,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_motorman"
+5500 set subwindow $current/name=main/source="demo_ge_sub_motorman"
 99
 99
 99
@@ -9174,7 +9174,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_mvalve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_mvalve"
 99
 99
 99
@@ -9306,7 +9306,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_padlock"
+5500 set subwindow $current/name=main/source="demo_ge_sub_padlock"
 99
 99
 99
@@ -9438,7 +9438,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_padlockanim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_padlockanim"
 99
 99
 99
@@ -9570,7 +9570,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pump2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pump2"
 99
 99
 99
@@ -9702,7 +9702,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pump3"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pump3"
 99
 99
 99
@@ -9834,7 +9834,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pumpanim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pumpanim"
 99
 99
 99
@@ -9966,7 +9966,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pumpanim2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pumpanim2"
 99
 99
 99
@@ -10098,7 +10098,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_thermometer"
+5500 set subwindow $current/name=main/source="demo_ge_sub_thermometer"
 99
 99
 99
@@ -10230,7 +10230,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_rod"
+5500 set subwindow $current/name=main/source="demo_ge_sub_rod"
 99
 99
 99
@@ -10362,7 +10362,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_rodcouplinganim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_rodcouplinganim"
 99
 99
 99
@@ -10494,7 +10494,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_screwanim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_screwanim"
 99
 99
 99
@@ -10626,7 +10626,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_speedswitch"
+5500 set subwindow $current/name=main/source="demo_ge_sub_speedswitch"
 99
 99
 99
@@ -10758,7 +10758,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_switch"
+5500 set subwindow $current/name=main/source="demo_ge_sub_switch"
 99
 99
 99
@@ -10890,7 +10890,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valve"
 99
 99
 99
@@ -11022,7 +11022,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valveanim"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valveanim"
 99
 99
 99
@@ -11154,7 +11154,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valveanim2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valveanim2"
 99
 99
 99
@@ -11286,7 +11286,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valvemanual"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valvemanual"
 99
 99
 99
@@ -11418,7 +11418,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valvecontrol"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valvecontrol"
 99
 99
 99
@@ -11550,7 +11550,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valvecontrol2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valvecontrol2"
 99
 99
 99
@@ -11682,7 +11682,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fananim3"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fananim3"
 99
 99
 99
@@ -11943,7 +11943,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_contactor"
+5500 set subwindow $current/name=main/source="demo_ge_sub_contactor"
 99
 99
 99
@@ -12075,7 +12075,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_contactor2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_contactor2"
 99
 99
 99
@@ -12207,7 +12207,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_controlswitch"
+5500 set subwindow $current/name=main/source="demo_ge_sub_controlswitch"
 99
 99
 99
@@ -12339,7 +12339,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fuse"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fuse"
 99
 99
 99
@@ -12471,7 +12471,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fuse2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fuse2"
 99
 99
 99
@@ -12603,7 +12603,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fuse3"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fuse3"
 99
 99
 99
@@ -12735,7 +12735,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_emergencystop"
+5500 set subwindow $current/name=main/source="demo_ge_sub_emergencystop"
 99
 99
 99
@@ -12867,7 +12867,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_overloadrelay"
+5500 set subwindow $current/name=main/source="demo_ge_sub_overloadrelay"
 99
 99
 99
@@ -12999,7 +12999,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_overloadrelay2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_overloadrelay2"
 99
 99
 99
@@ -13131,7 +13131,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_manswitch2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_manswitch2"
 99
 99
 99
@@ -13263,7 +13263,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_manswitch3"
+5500 set subwindow $current/name=main/source="demo_ge_sub_manswitch3"
 99
 99
 99
@@ -13395,7 +13395,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_frequencyconverter"
+5500 set subwindow $current/name=main/source="demo_ge_sub_frequencyconverter"
 99
 99
 99
@@ -13527,7 +13527,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_manswitch"
+5500 set subwindow $current/name=main/source="demo_ge_sub_manswitch"
 99
 99
 99
@@ -13788,7 +13788,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indanimround"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indanimround"
 99
 99
 99
@@ -13920,7 +13920,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indanimsquare"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indanimsquare"
 99
 99
 99
@@ -14052,7 +14052,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indpulsarround"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indpulsarround"
 99
 99
 99
@@ -14184,7 +14184,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indpulsarsquare"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indpulsarsquare"
 99
 99
 99
@@ -14316,7 +14316,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indround"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indround"
 99
 99
 99
@@ -14448,7 +14448,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indroundlarge"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indroundlarge"
 99
 99
 99
@@ -14580,7 +14580,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indsoap"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indsoap"
 99
 99
 99
@@ -14712,7 +14712,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indsquare"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indsquare"
 99
 99
 99
@@ -14844,7 +14844,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_indsquarelarge"
+5500 set subwindow $current/name=main/source="demo_ge_sub_indsquarelarge"
 99
 99
 99
@@ -14976,7 +14976,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_trafficlight"
+5500 set subwindow $current/name=main/source="demo_ge_sub_trafficlight"
 99
 99
 99
@@ -15237,7 +15237,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valuemedium"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valuemedium"
 99
 99
 99
@@ -15369,7 +15369,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valueinputmedium"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valueinputmedium"
 99
 99
 99
@@ -15501,7 +15501,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valueinputmediumrd"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valueinputmediumrd"
 99
 99
 99
@@ -15633,7 +15633,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valuelong"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valuelong"
 99
 99
 99
@@ -15765,7 +15765,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valuereliefdown"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valuereliefdown"
 99
 99
 99
@@ -15897,7 +15897,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valuereliefup"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valuereliefup"
 99
 99
 99
@@ -16029,7 +16029,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valueinputreliefdown"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valueinputreliefdown"
 99
 99
 99
@@ -16161,7 +16161,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_valueinputreliefup"
+5500 set subwindow $current/name=main/source="demo_ge_sub_valueinputreliefup"
 99
 99
 99
@@ -16422,7 +16422,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_sliderarrow"
+5500 set subwindow $current/name=main/source="demo_ge_sub_sliderarrow"
 99
 99
 99
@@ -16554,7 +16554,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_slider1_background1"
+5500 set subwindow $current/name=main/source="demo_ge_sub_slider1_background1"
 99
 99
 99
@@ -16686,7 +16686,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_slider1_background1_2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_slider1_background1_2"
 99
 99
 99
@@ -16818,7 +16818,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_slider2"
+5500 set subwindow $current/name=main/source="demo_ge_sub_slider2"
 99
 99
 99
@@ -16950,7 +16950,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_slider3"
+5500 set subwindow $current/name=main/source="demo_ge_sub_slider3"
 99
 99
 99
@@ -17082,7 +17082,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_slider"
+5500 set subwindow $current/name=main/source="demo_ge_slider"
 99
 99
 99
@@ -17343,7 +17343,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_checkvalve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_checkvalve"
 99
 99
 99
@@ -17475,7 +17475,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_directvalve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_directvalve"
 99
 99
 99
@@ -17607,7 +17607,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_filter"
+5500 set subwindow $current/name=main/source="demo_ge_sub_filter"
 99
 99
 99
@@ -17739,7 +17739,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pressureswitch"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pressureswitch"
 99
 99
 99
@@ -17871,7 +17871,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pressuregauge"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pressuregauge"
 99
 99
 99
@@ -18003,7 +18003,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pump"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pump"
 99
 99
 99
@@ -18135,7 +18135,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_releasevalve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_releasevalve"
 99
 99
 99
@@ -18267,7 +18267,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_tank"
+5500 set subwindow $current/name=main/source="demo_ge_sub_tank"
 99
 99
 99
@@ -18399,7 +18399,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_rack"
+5500 set subwindow $current/name=main/source="demo_ge_sub_rack"
 99
 99
 99
@@ -18531,7 +18531,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_terminal"
+5500 set subwindow $current/name=main/source="demo_ge_sub_terminal"
 99
 99
 99
@@ -18663,7 +18663,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_videocamera"
+5500 set subwindow $current/name=main/source="demo_ge_sub_videocamera"
 99
 99
 99
@@ -18795,7 +18795,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pulldownmenu"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pulldownmenu"
 99
 99
 99
@@ -18927,7 +18927,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_optionmenu"
+5500 set subwindow $current/name=main/source="demo_ge_sub_optionmenu"
 99
 99
 99
@@ -19059,7 +19059,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_smiley"
+5500 set subwindow $current/name=main/source="demo_ge_sub_smiley"
 99
 99
 99
@@ -19191,7 +19191,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_window"
+5500 set subwindow $current/name=main/source="demo_ge_sub_window"
 99
 99
 99
@@ -19323,7 +19323,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_tabbedwindow"
+5500 set subwindow $current/name=main/source="demo_ge_sub_tabbedwindow"
 99
 99
 99
@@ -19455,7 +19455,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_table"
+5500 set subwindow $current/name=main/source="demo_ge_sub_table"
 99
 99
 99
@@ -19587,7 +19587,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_conglue"
+5500 set subwindow $current/name=main/source="demo_ge_sub_conglue"
 99
 99
 99
@@ -19848,7 +19848,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonset"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonset"
 99
 99
 99
@@ -19980,7 +19980,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonreset"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonreset"
 99
 99
 99
@@ -20112,7 +20112,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttontoggle"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttontoggle"
 99
 99
 99
@@ -20244,7 +20244,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttoncommand"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttoncommand"
 99
 99
 99
@@ -20376,7 +20376,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonsetconfirm"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonsetconfirm"
 99
 99
 99
@@ -20508,7 +20508,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonresetconfirm"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonresetconfirm"
 99
 99
 99
@@ -20640,7 +20640,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttontoggleconfirm"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttontoggleconfirm"
 99
 99
 99
@@ -20772,7 +20772,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttoncommandconfirm"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttoncommandconfirm"
 99
 99
 99
@@ -20904,7 +20904,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonup"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonup"
 99
 99
 99
@@ -21036,7 +21036,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonleft"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonleft"
 99
 99
 99
@@ -21168,7 +21168,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonright'"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonright'"
 99
 99
 99
@@ -21300,7 +21300,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_roundbutton"
+5500 set subwindow $current/name=main/source="demo_ge_sub_roundbutton"
 99
 99
 99
@@ -21432,7 +21432,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_soapbutton"
+5500 set subwindow $current/name=main/source="demo_ge_sub_soapbutton"
 99
 99
 99
@@ -21564,7 +21564,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_smallbutton"
+5500 set subwindow $current/name=main/source="demo_ge_sub_smallbutton"
 99
 99
 99
@@ -21696,7 +21696,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_largebutton"
+5500 set subwindow $current/name=main/source="demo_ge_sub_largebutton"
 99
 99
 99
@@ -21828,7 +21828,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttoninfo"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttoninfo"
 99
 99
 99
@@ -21960,7 +21960,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttonhelp"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttonhelp"
 99
 99
 99
@@ -22092,7 +22092,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_checkbox"
+5500 set subwindow $current/name=main/source="demo_ge_sub_checkbox"
 99
 99
 99
@@ -22224,7 +22224,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_checkboxrelief"
+5500 set subwindow $current/name=main/source="demo_ge_sub_checkboxrelief"
 99
 99
 99
@@ -22356,7 +22356,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_radiobutton"
+5500 set subwindow $current/name=main/source="demo_ge_sub_radiobutton"
 99
 99
 99
@@ -22488,7 +22488,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_radiobuttonrelief"
+5500 set subwindow $current/name=main/source="demo_ge_sub_radiobuttonrelief"
 99
 99
 99
@@ -22620,7 +22620,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_buttondown"
+5500 set subwindow $current/name=main/source="demo_ge_sub_buttondown"
 99
 99
 99
@@ -22803,7 +22803,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digtextcolor"
+5500 set subwindow $current/name=main/source="demo_ge_digtextcolor"
 99
 99
 99
@@ -22935,7 +22935,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digfourshift"
+5500 set subwindow $current/name=main/source="demo_ge_digfourshift"
 99
 99
 99
@@ -23067,7 +23067,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_barchart"
+5500 set subwindow $current/name=main/source="demo_ge_sub_barchart"
 99
 99
 99
@@ -23199,7 +23199,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_pie"
+5500 set subwindow $current/name=main/source="demo_ge_sub_pie"
 99
 99
 99
@@ -23331,7 +23331,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_axisarc"
+5500 set subwindow $current/name=main/source="demo_ge_sub_axisarc"
 99
 99
 99
@@ -23463,7 +23463,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_dynamicaxis"
+5500 set subwindow $current/name=main/source="demo_ge_sub_dynamicaxis"
 99
 99
 99
@@ -23595,7 +23595,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_dynamicaxisarc"
+5500 set subwindow $current/name=main/source="demo_ge_sub_dynamicaxisarc"
 99
 99
 99
@@ -23727,7 +23727,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_fastcurve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_fastcurve"
 99
 99
 99
@@ -23859,7 +23859,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_xycurve"
+5500 set subwindow $current/name=main/source="demo_ge_sub_xycurve"
 99
 99
 99
@@ -23991,7 +23991,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_scrollingtext"
+5500 set subwindow $current/name=main/source="demo_ge_scrollingtext"
 99
 99
 99

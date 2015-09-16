@@ -1,4 +1,4 @@
-0! DefaultWidth 688
+0! DefaultWidth 687
 0! DefaultHeight 580
 1
 100 20
@@ -6,19 +6,19 @@
 101 20
 102 -42
 103 -86
-104 3.7377
-136 3.7377
+104 3.711
+136 3.711
 105 100
 106 -7
-107 -16
+107 -15
 108 35.0474
 109 -4e-07
 110 26
 111 -0.15
 116 0
 117 0
-118 135
-119 113
+118 134
+119 112
 120 1
 121 Claes context
 122 0
@@ -6941,7 +6941,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digfourshift"
+5500 set subwindow $current/name=main/source="demo_ge_digfourshift"
 99
 99
 99
@@ -7073,7 +7073,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_hostobject"
+5500 set subwindow $current/name=main/source="demo_ge_hostobject"
 99
 99
 99

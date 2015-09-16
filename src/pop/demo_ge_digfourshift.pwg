@@ -1,4 +1,4 @@
-0! DefaultWidth 688
+0! DefaultWidth 687
 0! DefaultHeight 580
 1
 100 20
@@ -6,10 +6,10 @@
 101 20
 102 -91
 103 -98
-104 3.7377
-136 3.7377
+104 3.711
+136 3.711
 105 100
-106 -17
+106 -16
 107 -18
 108 35
 109 -0.0500004
@@ -17,8 +17,8 @@
 111 -0.15
 116 0
 117 0
-118 136
-119 113
+118 134
+119 112
 120 0
 121 Claes context
 122 0
@@ -2475,7 +2475,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digshift"
+5500 set subwindow $current/name=main/source="demo_ge_digshift"
 99
 99
 99
@@ -2607,7 +2607,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_animation"
+5500 set subwindow $current/name=main/source="demo_ge_animation"
 99
 99
 99

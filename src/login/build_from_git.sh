@@ -64,6 +64,25 @@ echo "* Copy pwg files"
 echo "*"
 cp $pwrp_pop/*.pwg $pwrp_exe/
 cp $pwrp_pop/*.pwg $pwrp_web/
+# Objects in level and temp control
+cp $pwr_exe/pwr_c_abb_acs800_1.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_abb_acs800fanaggr.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basecircuitbreaker.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basecontactor.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basecvalve.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_baselevelsensor.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basemvalve1.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basemvalve.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_baseoverloadrelay.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basepressuresensor.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basepressureswitch.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basepumpaggr.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basesafetyswitch.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_basetempsensor.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_compmodepid.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_comppid.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_mode.pwg $pwrp_web/
+cp $pwr_exe/pwr_c_pid.pwg $pwrp_web/
 
 echo "*"
 echo "* Copy image files"

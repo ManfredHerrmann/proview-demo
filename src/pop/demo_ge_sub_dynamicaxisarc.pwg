@@ -1,4 +1,4 @@
-0! DefaultWidth 688
+0! DefaultWidth 687
 0! DefaultHeight 580
 1
 100 20
@@ -6,8 +6,8 @@
 101 20
 102 45
 103 -52
-104 3.7377
-136 3.7377
+104 3.711
+136 3.711
 105 100
 106 0
 107 -9
@@ -17,8 +17,8 @@
 111 -0.15
 116 8
 117 0
-118 144
-119 113
+118 143
+119 112
 120 0
 121 Claes context
 122 0
@@ -2259,7 +2259,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_dynamicaxis"
+5500 set subwindow $current/name=main/source="demo_ge_sub_dynamicaxis"
 99
 99
 99
@@ -2391,7 +2391,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_actuator"
+5500 set subwindow $current/name=main/source="demo_ge_sub_actuator"
 99
 99
 99

@@ -1,23 +1,25 @@
+0! DefaultWidth 166
+0! DefaultHeight 820
 1
 100 20
 135 20
 101 20
 102 -60
 103 -120
-104 3.00395
-136 3.00395
+104 3.711
+136 3.711
 105 100
-106 -9
-107 -18
+106 -11
+107 -22
 108 13.8
 109 -0.050002
 110 21.99
 111 -1.05
 116 0
 117 0
-118 102
-119 113
-120 1
+118 135
+119 112
+120 0
 121 Claes context
 122 0
 126 0.2
@@ -29,6 +31,9 @@
 132 3
 133 2
 137 4510
+138 3
+139 2
+140 2
 134
 22
 2200 0
@@ -51,7 +56,9 @@ pwrp_exe:
 ssab_exe:
 pwr_exe:
 2215 0
+2246 0
 2236 64
+2247 0
 2216 0
 2221 0
 2237 0
@@ -79,6 +86,7 @@ pwr_exe:
 2234 1
 2235 0
 2243 0
+2248 0
 2245 0
 2244
 99
@@ -154,6 +162,7 @@ pwr_exe:
 99
 1304 0
 1307 0
+1308 0
 99
 2908
 28
@@ -175,7 +184,9 @@ pwr_exe:
 306
 307
 308 0
+330 0
 321 64
+331 0
 309 0
 313 0
 322 0
@@ -195,10 +206,13 @@ pwr_exe:
 319 0
 320 0
 328 0
+332 0
 329
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 99
@@ -327,10 +341,13 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 0
+106 0
 102 33619967
 103 0
 99
@@ -453,10 +470,13 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 0
+106 0
 102 33619967
 103 0
 99
@@ -579,14 +599,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basetempsensor"
+5500 set subwindow $current/name=main/source="demo_comp_basetempsensor"
 99
 99
 99
@@ -708,14 +731,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_baselevelsensor"
+5500 set subwindow $current/name=main/source="demo_comp_baselevelsensor"
 99
 99
 99
@@ -837,14 +863,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basepressuresensor"
+5500 set subwindow $current/name=main/source="demo_comp_basepressuresensor"
 99
 99
 99
@@ -966,14 +995,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_baseflowsensor"
+5500 set subwindow $current/name=main/source="demo_comp_baseflowsensor"
 99
 99
 99
@@ -1095,14 +1127,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basesupswitch"
+5500 set subwindow $current/name=main/source="demo_comp_basesupswitch"
 99
 99
 99
@@ -1224,14 +1259,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basetempswitch"
+5500 set subwindow $current/name=main/source="demo_comp_basetempswitch"
 99
 99
 99
@@ -1353,14 +1391,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_baselevelswitch"
+5500 set subwindow $current/name=main/source="demo_comp_baselevelswitch"
 99
 99
 99
@@ -1482,14 +1523,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basepressureswitch"
+5500 set subwindow $current/name=main/source="demo_comp_basepressureswitch"
 99
 99
 99
@@ -1611,14 +1655,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basecircuitbreaker"
+5500 set subwindow $current/name=main/source="demo_comp_basecircuitbreaker"
 99
 99
 99
@@ -1740,14 +1787,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basecontactor"
+5500 set subwindow $current/name=main/source="demo_comp_basecontactor"
 99
 99
 99
@@ -1869,14 +1919,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_baseoverloadrelay"
+5500 set subwindow $current/name=main/source="demo_comp_baseoverloadrelay"
 99
 99
 99
@@ -1998,14 +2051,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basesafetyswitch"
+5500 set subwindow $current/name=main/source="demo_comp_basesafetyswitch"
 99
 99
 99
@@ -2127,14 +2183,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basemanvalve"
+5500 set subwindow $current/name=main/source="demo_comp_basemanvalve"
 99
 99
 99
@@ -2256,14 +2315,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basemvalve"
+5500 set subwindow $current/name=main/source="demo_comp_basemvalve"
 99
 99
 99
@@ -2385,14 +2447,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basecvalve"
+5500 set subwindow $current/name=main/source="demo_comp_basecvalve"
 99
 99
 99
@@ -2514,14 +2579,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basedirvalve"
+5500 set subwindow $current/name=main/source="demo_comp_basedirvalve"
 99
 99
 99
@@ -2643,14 +2711,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basepropvalve"
+5500 set subwindow $current/name=main/source="demo_comp_basepropvalve"
 99
 99
 99
@@ -2772,14 +2843,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basemotoraggr"
+5500 set subwindow $current/name=main/source="demo_comp_basemotoraggr"
 99
 99
 99
@@ -2901,14 +2975,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basemotorincrdecraggr"
+5500 set subwindow $current/name=main/source="demo_comp_basemotorincrdecraggr"
 99
 99
 99
@@ -3030,14 +3107,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basefanaggr"
+5500 set subwindow $current/name=main/source="demo_comp_basefanaggr"
 99
 99
 99
@@ -3159,14 +3239,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_basepumpaggr"
+5500 set subwindow $current/name=main/source="demo_comp_basepumpaggr"
 99
 99
 99
@@ -3288,10 +3371,13 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 0
+106 0
 102 33619967
 103 0
 99
@@ -3414,14 +3500,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_abb_acs800motoraggr"
+5500 set subwindow $current/name=main/source="demo_comp_abb_acs800motoraggr"
 99
 99
 99
@@ -3543,14 +3632,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_abb_acs800fanaggr"
+5500 set subwindow $current/name=main/source="demo_comp_abb_acs800fanaggr"
 99
 99
 99
@@ -3672,14 +3764,17 @@ pwr_exe:
 2727 0
 2728 303
 2729 4
+2730 0
 2721
 1
 100 1
+105 0
 101 1
+106 0
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_comp_abb_acs800pumpaggr"
+5500 set subwindow $current/name=main/source="demo_comp_abb_acs800pumpaggr"
 99
 99
 99

@@ -19,7 +19,7 @@
 117 0
 118 150
 119 112
-120 1
+120 0
 121 Claes context
 122 0
 126 0.1
@@ -5578,7 +5578,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_proc_temperaturecontrol"
+5500 set subwindow $current/name=main/source="demo_proc_temperaturecontrol"
 99
 99
 99
@@ -6004,7 +6004,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-LevelControl-P1
@@ -6139,7 +6139,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 55
 5500 open graph/class/inst=Demo-Process-LevelControl-Plc-W-LC1_Mode
@@ -6270,7 +6270,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-LevelControl-MV1
@@ -6404,7 +6404,7 @@ pwr_exe:
 105 0
 101 1
 106 0
-102 33619964
+102 33619967
 103 0
 12
 1200 Demo-Process-LevelControl-Plc-W-LC1_Mode.SetVal##Float32
@@ -7357,7 +7357,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-LevelControl-CV1
@@ -7498,7 +7498,7 @@ pwr_exe:
 105 0
 101 2049
 106 0
-102 33619964
+102 33619967
 103 0
 60
 6000 Demo-Process-LevelControl-Plc-W-LC1_Mode.SetVal##Float32
@@ -8321,7 +8321,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-LevelControl-LC1

@@ -5528,7 +5528,7 @@ pwr_exe:
 105 0
 101 2049
 106 0
-102 33619964
+102 33619967
 103 0
 60
 6000 Demo-Process-TemperatureControl-TemperatureMode.SetVal##Float32
@@ -7363,7 +7363,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_proc_levelcontrol"
+5500 set subwindow $current/name=main/source="demo_proc_levelcontrol"
 99
 99
 99
@@ -7918,7 +7918,7 @@ pwr_exe:
 105 0
 101 1
 106 0
-102 33619964
+102 33619967
 103 0
 12
 1200 Demo-Process-TemperatureControl-TemperatureMode.SetVal##Float32
@@ -8504,7 +8504,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-CombustionAirFan
@@ -9654,7 +9654,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-GasFan
@@ -10804,7 +10804,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-GasValve
@@ -11065,7 +11065,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-GasPressureSensor
@@ -11704,7 +11704,7 @@ pwr_exe:
 105 0
 101 67
 106 0
-102 33619964
+102 33619967
 103 0
 50
 5000 Demo-Process-TemperatureControl-GasPressureMode
@@ -11900,7 +11900,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-AirPressureSensor
@@ -12069,7 +12069,7 @@ pwr_exe:
 105 0
 101 67
 106 0
-102 33619964
+102 33619967
 103 0
 50
 5000 Demo-Process-TemperatureControl-AirPressureMode
@@ -12473,7 +12473,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-AirPressureSwitch
@@ -12641,7 +12641,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-GasPressureSwitch
@@ -13036,7 +13036,7 @@ pwr_exe:
 105 0
 101 65
 106 0
-102 33619964
+102 33619967
 103 0
 32
 3200 Demo-Process-TemperatureControl-TemperatureSensor
@@ -13765,7 +13765,7 @@ pwr_exe:
 105 0
 101 67
 106 0
-102 33619964
+102 33619967
 103 0
 50
 5000 Demo-Process-TemperatureControl-TemperatureMode

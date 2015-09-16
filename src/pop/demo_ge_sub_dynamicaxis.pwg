@@ -1,4 +1,4 @@
-0! DefaultWidth 688
+0! DefaultWidth 687
 0! DefaultHeight 580
 1
 100 20
@@ -6,8 +6,8 @@
 101 20
 102 -1
 103 -67
-104 3.7377
-136 3.7377
+104 3.711
+136 3.711
 105 100
 106 0
 107 -12
@@ -17,9 +17,9 @@
 111 -0.15
 116 0
 117 0
-118 136
-119 113
-120 1
+118 135
+119 112
+120 0
 121 Claes context
 122 0
 126 1
@@ -2181,7 +2181,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_axisarc"
+5500 set subwindow $current/name=main/source="demo_ge_sub_axisarc"
 99
 99
 99
@@ -2313,7 +2313,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_sub_dynamicaxisarc"
+5500 set subwindow $current/name=main/source="demo_ge_sub_dynamicaxisarc"
 99
 99
 99

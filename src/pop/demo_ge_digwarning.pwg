@@ -1780,7 +1780,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_statuscolor"
+5500 set subwindow $current/name=main/source="demo_ge_statuscolor"
 99
 99
 99
@@ -1909,7 +1909,7 @@ pwr_exe:
 102 33619967
 103 0
 55
-5500 set subwindow pwrdemo/name=main/source="demo_ge_digerror"
+5500 set subwindow $current/name=main/source="demo_ge_digerror"
 99
 99
 99
