@@ -12,20 +12,3 @@ Demo-Process-TemperatureControl-Simulate <t><t><link> plcw_000_254_254_200_0000d
 Demo-Ge-Subgraphs-Plc <t><t><link> plcw_000_254_254_200_00043473,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
 </topic>
 
-<topic> plcw_000_254_254_200_00000005
-Demo-Ge-Dynamics-Plc-W
-CSub0-W <link>plcw_000_254_254_200_0000000a,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
-
-<h1>Demo Ge Dynamics
-This program contains the code for some dynamic types where calculations are added to
-make the demo more intelligible.
-
-<h2>DigColor
-To display the instance function, a demo with 32 colors is made int he DigColor presentation.
-The colors can be set by push buttons, but also with a slider. The conversion from the 
-analog slider value to digital values are made in the sub window CSub0.
-
-<h2>Demo graph
-In some dynamics or actions a demo graph is opened with flashing indicators. The flashing
-is controlled by a grafset sequence in page 2.
-</topic>
