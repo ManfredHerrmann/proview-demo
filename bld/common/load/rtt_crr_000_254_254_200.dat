@@ -1,73 +1,369 @@
+VolPwrDemo:Demo-Ge-Dynamics-DigLowColor-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigLowColor XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigLowColor XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Slider
  R Demo-Ge-Dynamics-Plc-W-GetDv0 GetDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Iv1
  R Demo-Ge-Dynamics-Plc-W-CSub0-W-GetIv0 GetIv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv01
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv0 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv02
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv1 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv03
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv2 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv04
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv3 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv05
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv4 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv06
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv5 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv07
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv6 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv08
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv7 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv09
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv8 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv10
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv9 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv11
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv10 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv12
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv11 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv13
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv12 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv14
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv13 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv15
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv14 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv16
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv15 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv17
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv16 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv18
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv17 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv19
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv18 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv20
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv19 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv21
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv20 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv22
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv21 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv23
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv22 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv24
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv23 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv25
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv24 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv26
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv25 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv27
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv26 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv28
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv27 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv29
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv28 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv30
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv29 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv31
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv30 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-DigColor-Dv32
  W Demo-Ge-Dynamics-Plc-W-CSub0-W-StoDv31 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigColor XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigWarning-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigWarning XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigWarning XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigError-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigError XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigError XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigFlash-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFlash XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFlash XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigBorder-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigBorder XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigBorder XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-AnalogColor-Av1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-AnalogColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-AnalogColor XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-FillLevel-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-FillLevel XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-FillLevel XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-StatusColor-Iv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-StatusColor XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-StatusColor XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv01
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv02
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv03
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv04
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv05
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv06
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv07
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv08
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv09
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv10
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv11
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv12
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv13
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv14
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv15
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv16
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv17
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv18
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv19
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv20
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv21
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv22
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv23
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv24
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv25
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv26
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv27
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Tone-Dv28
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Tone XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Value-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Value XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-ValueInput XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Slider-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Slider XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Animation-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Animation XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Animation XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Animation-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Animation XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Animation XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Animation-Dv3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Animation XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Animation XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-AnalogShift-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-AnalogShift XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-AnalogShift XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigShift-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigShift XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigShift XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Move-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Move-Av2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Move-Av3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Move-Av4
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Move XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Rotate-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Rotate XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Rotate XttGraph
+VolPwrDemo:Demo-Ge-Actions-OptionMenu-Iv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-OptionMenu XttGraph
+VolPwrDemo:Demo-Ge-Actions-PulldownMenu-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PulldownMenu XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PulldownMenu XttGraph
+VolPwrDemo:Demo-Ge-Actions-PulldownMenu-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PulldownMenu XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PulldownMenu XttGraph
+VolPwrDemo:Demo-Ge-Actions-PulldownMenu-Dv3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PulldownMenu XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PulldownMenu XttGraph
+VolPwrDemo:Demo-Ge-Actions-SetDig-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-SetDig XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-SetDig XttGraph
+VolPwrDemo:Demo-Ge-Actions-Confirm-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-Confirm XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-Confirm XttGraph
+VolPwrDemo:Demo-Ge-Actions-ResetDig-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-ResetDig XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-ResetDig XttGraph
+VolPwrDemo:Demo-Ge-Actions-ToggleDig-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-ToggleDig XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-ToggleDig XttGraph
+VolPwrDemo:Demo-Ge-Actions-StoDig-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-StoDig XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-StoDig XttGraph
+VolPwrDemo:Demo-Ge-Actions-RadioButton-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Actions-RadioButton-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Actions-RadioButton-Dv3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Actions-RadioButton-Dv4
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Actions-IncrAnalog-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-IncrAnalog XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av11
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av12
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av13
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av14
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av21
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av22
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av23
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av24
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av41
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av42
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av43
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
+VolPwrDemo:Demo-Ge-Actions-InputFocus-Av44
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-InputFocus XttGraph
 VolPwrDemo:Demo-Ge-Actions-PopupMenu-Dv1
  W Demo-Ge-Dynamics-Plc-W-StoDv32 StoDv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Actions-PopupMenu XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Invisible-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Invisible XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Invisible XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-Invisible-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Invisible XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-Invisible XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigText-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigText XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigText XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-AnalogText-Iv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-AnalogText XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigSound-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigSound XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigSound XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigSound-Dv2
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigSound XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigSound XttGraph
 VolPwrDemo:Demo-Ge-Dynamics-Demo1-Dv1
  W Demo-Ge-Dynamics-Plc-W-StoDv33 StoDv
  R Demo-Ge-Actions-PopupMenu-Demo1 XttGraph
@@ -78,6 +374,300 @@ VolPwrDemo:Demo-Ge-Dynamics-Demo1-Dv3
  W Demo-Ge-Dynamics-Plc-W-StoDv35 StoDv
 VolPwrDemo:Demo-Ge-Dynamics-Demo1-Reset
  R Demo-Ge-Dynamics-Plc PlcPgm
+VolPwrDemo:Demo-Ge-Subgraphs-Trend-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Trend XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Trend XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Bar-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Bar XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Bar XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Trend-Av2
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Trend XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Trend XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-BaseValve2-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-BaseValve2 XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-BaseValve2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Burner-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Burner XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Burner XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Fan2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Fan2-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Fan3-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan3 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan3 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-FanAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Motor-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Motor XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Motor XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Motor-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Motor XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Motor XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-MotorAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-MotorAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-MotorAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-FanAnim2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-FanAnim2-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-FanAnim2-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-MotorMan-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-MotorMan XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-MotorMan XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-MotorMan-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-MotorMan XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-PadlockAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PadlockAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PadlockAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Thermometer-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Thermometer XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Thermometer XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Thermometer XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pump2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pump2-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pump2-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-PumpAnim2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-PumpAnim2-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-PumpAnim2-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-PumpAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PumpAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RodCouplingAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RodCouplingAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RodCouplingAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ScrewAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ScrewAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ScrewAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-SpeedSwitch-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-SpeedSwitch XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-SpeedSwitch XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Switch-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Switch XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Switch XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Fan2-Dv2
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan2 XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fan2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-FanAnim3-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim3 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FanAnim3 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Valve-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Valve XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Valve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Valve-Dv2
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Valve XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Valve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveAnim-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveAnim XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveAnim XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveAnim2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveAnim2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveAnim2-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveAnim2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveManual-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveManual XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveManual XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveManual-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveManual XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveManual XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveControl-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveControl-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveControl2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveControl2-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValveControl2-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValveControl2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ManSwitch2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ManSwitch2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ManSwitch2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ManSwitch-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ManSwitch XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ManSwitch XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-OverloadRelay2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-OverloadRelay2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-OverloadRelay2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-EmergencyStop-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-EmergencyStop XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-EmergencyStop XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Fuse2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fuse2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fuse2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Fuse-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fuse XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Fuse XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ControlSwitch-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ControlSwitch XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ControlSwitch XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Contactor2-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Contactor2 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Contactor2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Contactor-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Contactor XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Contactor XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ManSwitch3-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ManSwitch3 XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ManSwitch3 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-TrafficLight-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndSquareLarge-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndSquareLarge XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndSquareLarge XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndSquare-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndSquare XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndSquare XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndSoap-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndSoap XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndSoap XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndRoundLarge-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndRoundLarge XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndRoundLarge XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndRound-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndRound XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndRound XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndPulsarSquare-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndPulsarSquare XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndPulsarSquare XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndPulsarRound-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndPulsarRound XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndPulsarRound XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndAnimSquare-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndAnimSquare XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndAnimSquare XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-IndAnimRound-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndAnimRound XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-IndAnimRound XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-TrafficLight-Dv2
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-TrafficLight-Dv3
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-TrafficLight XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueMedium-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueMedium XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueInputReliefDown-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueInputReliefDown XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueReliefUp-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueReliefUp XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueReliefDown-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueReliefDown XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueInputMediumRd-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueInputMediumRd XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueInputMedium-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueInputMedium XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueInputReliefUp-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueInputReliefUp XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ValueLong-Sv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ValueLong XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-SliderArrow-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-SliderArrow XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Slider3-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Slider3 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Slider2-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Slider2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Slider1_Background1_2-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Slider1_Background1_2 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Slider1_Background1-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Slider1_Background1 XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-DirectValve-Iv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-DirectValve XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-DirectValve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Filter-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Filter XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Filter XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-PressureSwitch-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PressureSwitch XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-PressureSwitch XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pump-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pump-Dv2
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pump XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ReleaseValve-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ReleaseValve XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ReleaseValve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Needle-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Needle XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Needle XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Smiley-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Smiley XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Smiley XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ButtonSet-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonSet XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonSet XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ButtonToggleConfirm-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonToggleConfirm XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonToggleConfirm XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ButtonResetConfirm-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonResetConfirm XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonResetConfirm XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ButtonSetConfirm-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonSetConfirm XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonSetConfirm XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ButtonToggle-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonToggle XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonToggle XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-ButtonReset-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonReset XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-ButtonReset XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-CheckBox-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-CheckBox XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-CheckBox XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-CheckBoxRelief-Dv1
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-CheckBoxRelief XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-CheckBoxRelief XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButton-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButton-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButton-Dv3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButton-Dv4
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButton XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButtonRelief-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButtonRelief-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButtonRelief-Dv3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-RadioButtonRelief-Dv4
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-RadioButtonRelief XttGraph
 VolPwrDemo:Demo-Components-Base-BaseTempSensor-TI1.Value
  R Demo-Components-Base-Plc-W-TI1-W-GetAi0 GetAi
  R Demo-Components-Base-Plc-W-TI1-W-GetAi2 GetAi
@@ -106,11 +696,17 @@ VolPwrDemo:Demo-Components-Base-BaseCircuitBreaker-CB1.NotTripped
  R Demo-Components-Base-Plc-W-CB1-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseContactor-CO1.Order
  R Demo-Components-Base-Simulate-W-CO1-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-CO1-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-CO1-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-CO1-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BaseContactor-CO1.OrderOff
+ R Demo-Components-Base-Simulate-W-CO1-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-CO1-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BaseContactor-CO1.Feedback
  R Demo-Components-Base-Plc-W-CO1-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-CO1-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-CO1-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-CO1-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BaseOverloadRelay-OL1.Overload
  R Demo-Components-Base-Plc-W-OL1-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseSafetySwitch-SS1.On
@@ -445,11 +1041,17 @@ VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.CircuitBreaker.NotTripped
  R Demo-Components-Base-Plc-W-M1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Contactor.Order
  R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Contactor.OrderOff
+ R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Contactor.Feedback
  R Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-M1-W-ContactorFo63-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-M1-W-Contactor-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.SafetySwitch.On
  R Demo-Components-Base-Plc-W-M1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M1.Motor.TempSwitch.Switch
@@ -490,11 +1092,17 @@ VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.CircuitBreaker.NotTripped
  R Demo-Components-Base-Plc-W-M2-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Contactor.Order
  R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Contactor.OrderOff
+ R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Contactor.Feedback
  R Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-M2-W-ContactorFo63-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-M2-W-Contactor-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.SafetySwitch.On
  R Demo-Components-Base-Plc-W-M2-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorAggr-M2.Motor.TempSwitch.Switch
@@ -535,18 +1143,30 @@ VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.CircuitBreaker.NotTri
  R Demo-Components-Base-Plc-W-MID-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorIncr.Order
  R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorIncr.OrderOff
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorIncr.Feedback
  R Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-MID-W-ConIncrease-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorIncr-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorDecr.Order
  R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorDecr.OrderOff
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.ContactorDecr.Feedback
  R Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-MID-W-ConDecrease-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-MID1-W-ContactorDecr-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.SafetySwitch.On
  R Demo-Components-Base-Plc-W-MID-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseMotorIncrDecrAggr-MID1.Motor.TempSwitch.Switch
@@ -600,11 +1220,17 @@ VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.CircuitBreaker.NotTripped
  R Demo-Components-Base-Plc-W-F1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Contactor.Order
  R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Contactor.OrderOff
+ R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Contactor.Feedback
  R Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-F1-W-ContactorFo63-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-F1-W-Contactor-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.SafetySwitch.On
  R Demo-Components-Base-Plc-W-F1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BaseFanAggr-F1.Motor.TempSwitch.Switch
@@ -645,11 +1271,17 @@ VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.CircuitBreaker.NotTripped
  R Demo-Components-Base-Plc-W-P1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Contactor.Order
  R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDo0 GetDo
+ R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDo2 GetDo
  W Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-StoDo0 StoDo
+ W Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Contactor.OrderOff
+ R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDo3 GetDo
+ W Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Contactor.Feedback
  R Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-GetDi0 GetDi
  R Demo-Components-Base-Plc-W-P1-W-ContactorFo63-W-GetDi1 GetDi
  R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDi0 GetDi
+ R Demo-Components-Base-Simulate-W-P1-W-Contactor-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.SafetySwitch.On
  R Demo-Components-Base-Plc-W-P1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-Base-BasePumpAggr-P1.Motor.TempSwitch.Switch
@@ -690,11 +1322,17 @@ VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.CircuitBreaker.NotTripped
  R Demo-Components-ABB-Plc-W-M1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Contactor.Order
  R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDo0 GetDo
+ R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDo2 GetDo
  W Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-StoDo0 StoDo
+ W Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Contactor.OrderOff
+ R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDo3 GetDo
+ W Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Contactor.Feedback
  R Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-GetDi0 GetDi
  R Demo-Components-ABB-Plc-W-M1-W-PowerOn-W-GetDi1 GetDi
  R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDi0 GetDi
+ R Demo-Components-ABB-Sim-W-M1-W-ContactorSim-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.SafetySwitch.On
  R Demo-Components-ABB-Plc-W-M1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800MotorAggr-M1.Motor.TempSwitch.Switch
@@ -776,11 +1414,17 @@ VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.CircuitBreaker.NotTripped
  R Demo-Components-ABB-Plc-W-P1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Contactor.Order
  R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDo0 GetDo
+ R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDo2 GetDo
  W Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-StoDo0 StoDo
+ W Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Contactor.OrderOff
+ R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDo3 GetDo
+ W Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Contactor.Feedback
  R Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-GetDi0 GetDi
  R Demo-Components-ABB-Plc-W-P1-W-PowerOn-W-GetDi1 GetDi
  R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDi0 GetDi
+ R Demo-Components-ABB-Sim-W-P1-W-ContactorSim-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.SafetySwitch.On
  R Demo-Components-ABB-Plc-W-P1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800PumpAggr-P1.Motor.TempSwitch.Switch
@@ -840,11 +1484,17 @@ VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.CircuitBreaker.NotTripped
  R Demo-Components-ABB-Plc-W-F1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Contactor.Order
  R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDo0 GetDo
+ R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDo2 GetDo
  W Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-StoDo0 StoDo
+ W Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-StoDo2 StoDo
+VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Contactor.OrderOff
+ R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDo3 GetDo
+ W Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-StoDo3 StoDo
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Contactor.Feedback
  R Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-GetDi0 GetDi
  R Demo-Components-ABB-Plc-W-F1-W-PowerOn-W-GetDi1 GetDi
  R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDi0 GetDi
+ R Demo-Components-ABB-Sim-W-F1-W-ContactorSim-W-GetDi1 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.SafetySwitch.On
  R Demo-Components-ABB-Plc-W-F1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Components-ABB-ABB_ACS800FanAggr-F1.Motor.TempSwitch.Switch
@@ -948,11 +1598,17 @@ VolPwrDemo:Demo-Process-LevelControl-P1.CircuitBreaker.NotTripped
  R Demo-Process-LevelControl-Plc-W-P1-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.Order
  R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDo0 GetDo
+ R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDo2 GetDo
  W Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-StoDo0 StoDo
+ W Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-StoDo2 StoDo
+VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.OrderOff
+ R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDo3 GetDo
+ W Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-StoDo3 StoDo
 VolPwrDemo:Demo-Process-LevelControl-P1.Contactor.Feedback
  R Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-GetDi0 GetDi
  R Demo-Process-LevelControl-Plc-W-P1-W-ContactorFo63-W-GetDi1 GetDi
  R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDi0 GetDi
+ R Demo-Process-LevelControl-Simulate-W-P1-W-Contactor-W-GetDi1 GetDi
 VolPwrDemo:Demo-Process-LevelControl-P1.SafetySwitch.On
  R Demo-Process-LevelControl-Plc-W-P1-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Process-LevelControl-P1.Motor.TempSwitch.Switch
@@ -992,8 +1648,8 @@ VolPwrDemo:Demo-Process-LevelControl-LC1.Value
  R Demo-Process-LevelControl-Plc-W-LC1-W-GetAi0 GetAi
  R Demo-Process-LevelControl-Plc-W-LC1-W-GetAi2 GetAi
  R Demo-Process-LevelControl-Plc-W-LC1-W-GetAi3 GetAi
- W Nodes-DemoNode-Op-LevelContol XttGraph
- R Nodes-DemoNode-Op-LevelContol XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-LevelControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-LevelControl XttGraph
 VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.Order
  R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo0 GetAo
  R Demo-Process-LevelControl-Plc-W-CV1-W-Actuator-W-GetAo1 GetAo
@@ -1020,17 +1676,17 @@ VolPwrDemo:Demo-Process-LevelControl-CV1.Actuator.Order
  R Demo-Process-LevelControl-Simulate-W-CV1-W-GetAo0 GetAo
  R Demo-Process-LevelControl-Simulate-W-CV1-W-GetAo1 GetAo
  R Demo-Process-LevelControl-Simulate-W-CV1-W-GetAo2 GetAo
- W Nodes-DemoNode-Op-LevelContol XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-LevelControl XttGraph
 VolPwrDemo:Demo-Process-LevelControl-Start
  W Demo-Process-LevelControl-Plc-W-ResDv0 ResDv
  R Demo-Process-LevelControl-Plc-W-GetDv0 GetDv
  R Demo-Process-LevelControl-Plc-W-GetDv2 GetDv
- W Nodes-DemoNode-Op-LevelContol XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-LevelControl XttGraph
 VolPwrDemo:Demo-Process-LevelControl-Stop
  W Demo-Process-LevelControl-Plc-W-ResDv1 ResDv
  R Demo-Process-LevelControl-Plc-W-GetDv1 GetDv
  R Demo-Process-LevelControl-Plc-W-GetDv3 GetDv
- W Nodes-DemoNode-Op-LevelContol XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-LevelControl XttGraph
 VolPwrDemo:Demo-Process-LevelControl-Reset
  R Demo-Process-LevelControl-Plc PlcPgm
  W Demo-Process-LevelControl-Plc-W-SetDv0 SetDv
@@ -1041,12 +1697,12 @@ VolPwrDemo:Demo-Process-TemperatureControl-Start
  W Demo-Process-TemperatureControl-Plc-W-ResDv0 ResDv
  R Demo-Process-TemperatureControl-Plc-W-GetDv0 GetDv
  R Demo-Process-TemperatureControl-Plc-W-GetDv2 GetDv
- W Nodes-DemoNode-Op-TemperatureControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Stop
  W Demo-Process-TemperatureControl-Plc-W-ResDv1 ResDv
  R Demo-Process-TemperatureControl-Plc-W-GetDv1 GetDv
  R Demo-Process-TemperatureControl-Plc-W-GetDv3 GetDv
- W Nodes-DemoNode-Op-TemperatureControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Reset
  R Demo-Process-TemperatureControl-Plc PlcPgm
  W Demo-Process-TemperatureControl-Plc-W-ResDv2 ResDv
@@ -1062,11 +1718,17 @@ VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.CircuitBreaker.NotTr
  R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Contactor.Order
  R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDo0 GetDo
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDo2 GetDo
  W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-StoDo0 StoDo
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-StoDo2 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Contactor.OrderOff
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDo3 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-StoDo3 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Contactor.Feedback
  R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-GetDi0 GetDi
  R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-PowerOn-W-GetDi1 GetDi
  R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDi0 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-AirFan-W-ContactorSim-W-GetDi1 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.SafetySwitch.On
  R Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-CombustionAirFan.Motor.TempSwitch.Switch
@@ -1128,11 +1790,17 @@ VolPwrDemo:Demo-Process-TemperatureControl-GasFan.CircuitBreaker.NotTripped
  R Demo-Process-TemperatureControl-Plc-W-GasFan-W-CircuitBreaker-W-GetDi0 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Contactor.Order
  R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDo0 GetDo
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDo2 GetDo
  W Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-StoDo0 StoDo
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-StoDo2 StoDo
+VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Contactor.OrderOff
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDo3 GetDo
+ W Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-StoDo3 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Contactor.Feedback
  R Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-GetDi0 GetDi
  R Demo-Process-TemperatureControl-Plc-W-GasFan-W-PowerOn-W-GetDi1 GetDi
  R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDi0 GetDi
+ R Demo-Process-TemperatureControl-Simulate-W-GasFan-W-ContactorSim-W-GetDi1 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-GasFan.SafetySwitch.On
  R Demo-Process-TemperatureControl-Plc-W-GasFan-W-SafetySwitch-W-GetDi0 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-GasFan.Motor.TempSwitch.Switch
@@ -1212,54 +1880,54 @@ VolPwrDemo:Demo-Process-TemperatureControl-GasPressureSwitch.Switch
  R Demo-Process-TemperatureControl-Plc-W-SupSwitchFo11-W-GetDi1 GetDi
  R Demo-Process-TemperatureControl-Plc-W-GetDi1 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-Burner1-AirValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner1-GasValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner1-BCU_Order
  R Demo-Process-TemperatureControl-Simulate-W-GetDo0 GetDo
  W Demo-Process-TemperatureControl-Plc-W-StoDo0 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-Burner1-BCU_Alarm
  R Demo-Process-TemperatureControl-Plc-W-GetDi3 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-Burner6-AirValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner6-GasValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner6-BCU_Order
  R Demo-Process-TemperatureControl-Simulate-W-GetDo5 GetDo
  W Demo-Process-TemperatureControl-Plc-W-StoDo5 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-Burner6-BCU_Alarm
  R Demo-Process-TemperatureControl-Plc-W-GetDi8 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-Burner5-AirValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner5-GasValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner5-BCU_Order
  R Demo-Process-TemperatureControl-Simulate-W-GetDo4 GetDo
  W Demo-Process-TemperatureControl-Plc-W-StoDo4 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-Burner5-BCU_Alarm
  R Demo-Process-TemperatureControl-Plc-W-GetDi7 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-Burner4-AirValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner4-GasValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner4-BCU_Order
  R Demo-Process-TemperatureControl-Simulate-W-GetDo3 GetDo
  W Demo-Process-TemperatureControl-Plc-W-StoDo3 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-Burner4-BCU_Alarm
  R Demo-Process-TemperatureControl-Plc-W-GetDi6 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-Burner3-AirValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner3-GasValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner3-BCU_Order
  R Demo-Process-TemperatureControl-Simulate-W-GetDo2 GetDo
  W Demo-Process-TemperatureControl-Plc-W-StoDo2 StoDo
 VolPwrDemo:Demo-Process-TemperatureControl-Burner3-BCU_Alarm
  R Demo-Process-TemperatureControl-Plc-W-GetDi5 GetDi
 VolPwrDemo:Demo-Process-TemperatureControl-Burner2-AirValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner2-GasValve.SwitchClosed
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-Burner2-BCU_Order
  R Demo-Process-TemperatureControl-Simulate-W-GetDo1 GetDo
  W Demo-Process-TemperatureControl-Plc-W-StoDo1 StoDo
@@ -1269,25 +1937,92 @@ VolPwrDemo:Demo-Process-TemperatureControl-AirPressureSensor.Value
  R Demo-Process-TemperatureControl-Plc-W-AirPressureSensor-W-GetAi0 GetAi
  R Demo-Process-TemperatureControl-Plc-W-AirPressureSensor-W-GetAi2 GetAi
  R Demo-Process-TemperatureControl-Plc-W-AirPressureSensor-W-GetAi3 GetAi
- W Nodes-DemoNode-Op-TemperatureControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-GasPressureSensor.Value
  R Demo-Process-TemperatureControl-Plc-W-GasPressureSensor-W-GetAi0 GetAi
  R Demo-Process-TemperatureControl-Plc-W-GasPressureSensor-W-GetAi2 GetAi
  R Demo-Process-TemperatureControl-Plc-W-GasPressureSensor-W-GetAi3 GetAi
- W Nodes-DemoNode-Op-TemperatureControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-TemperatureSensor.Value
  R Demo-Process-TemperatureControl-Plc-W-TemperatureSensor-W-GetAi0 GetAi
  R Demo-Process-TemperatureControl-Plc-W-TemperatureSensor-W-GetAi2 GetAi
  R Demo-Process-TemperatureControl-Plc-W-TemperatureSensor-W-GetAi3 GetAi
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
- W Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-NoOfBurningBurners
  W Demo-Process-TemperatureControl-Plc-W-StoIv0 StoIv
- R Nodes-DemoNode-Op-TemperatureControl XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
 VolPwrDemo:Demo-Process-TemperatureControl-State
  W Demo-Process-TemperatureControl-Plc-W-CStoIv0 CStoIv
  W Demo-Process-TemperatureControl-Plc-W-CStoIv1 CStoIv
  W Demo-Process-TemperatureControl-Plc-W-CStoIv2 CStoIv
  W Demo-Process-TemperatureControl-Plc-W-CStoIv3 CStoIv
  W Demo-Process-TemperatureControl-Plc-W-CStoIv4 CStoIv
- W Nodes-DemoNode-Op-TemperatureControl XttGraph
+ W Nodes-DemoNode-OpPlaces-Graphs-Process-TemperatureControl XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-BarChart-Av1
+ R Demo-Ge-Subgraphs-Plc-W-GetAv0 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-BarChart XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-BarChart-Av2
+ R Demo-Ge-Subgraphs-Plc-W-GetAv1 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-BarChart XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-BarChart-Av3
+ R Demo-Ge-Subgraphs-Plc-W-GetAv2 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-BarChart XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-BarChart-Av4
+ R Demo-Ge-Subgraphs-Plc-W-GetAv3 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-BarChart XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pie-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pie XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pie-Av2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pie XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pie-Av3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pie XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pie-Av4
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pie XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-Pie-Av5
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-Pie XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigTextColor-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigTextColor XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigTextColor XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigTextColor-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigTextColor XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigFourShift-Dv1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFourShift XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFourShift XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigFourShift-Dv2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFourShift XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFourShift XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-DigFourShift-Dv3
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFourShift XttGraph
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-DigFourShift XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-DynamicAxisArc-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-DynamicAxisArc XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-DynamicAxisArc-Av2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-DynamicAxisArc XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-DynamicAxis-Av1
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-DynamicAxis XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-DynamicAxis-Av2
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-DynamicAxis XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-XYCurve-Av1
+ R Demo-Ge-Subgraphs-Plc-W-GetAv4 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-XYCurve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-XYCurve-Av2
+ R Demo-Ge-Subgraphs-Plc-W-GetAv5 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-XYCurve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-XYCurve-Av3
+ R Demo-Ge-Subgraphs-Plc-W-GetAv6 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-XYCurve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-XYCurve-Av4
+ R Demo-Ge-Subgraphs-Plc-W-GetAv7 GetAv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-XYCurve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-XYCurve-Update
+ W Demo-Ge-Subgraphs-Plc-W-StoDv3 StoDv
+VolPwrDemo:Demo-Ge-Subgraphs-XYCurve-SliderMoved
+ W Demo-Ge-Subgraphs-Plc-W-ResDv3 ResDv
+ R Demo-Ge-Subgraphs-Plc-W-GetDv3 GetDv
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-XYCurve XttGraph
+VolPwrDemo:Demo-Ge-Subgraphs-FastCurve-Av1
+ W Demo-Ge-Subgraphs-Plc-W-StoAv0 StoAv
+ R Nodes-DemoNode-OpPlaces-Graphs-Ge-Subgraphs-FastCurve XttGraph
+VolPwrDemo:Demo-Ge-Dynamics-ScrollingText-ScrollingText
+ W Nodes-DemoNode-OpPlaces-Graphs-Ge-Dynamics-ScrollingText XttGraph

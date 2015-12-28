@@ -1,3 +1,42 @@
+ _Obj_ Demo-Ge-Subgraphs-Plc-W-DataA0
+classdef Da1 AArray100;
+classdef Da2 AArray100;
+classdef Da3 AArray100;
+classdef Da4 AArray100;
+int i;
+
+for ( i = 0; i < 100; i++) {
+  Da1->Value[i] = 5.0 * A1 * (1 + sin( M_PI * 2 * i / 100)) / 2;
+  Da2->Value[i] = 5.0 * A2 * (100 - i) / 100;
+  Da3->Value[i] = 5.0 * A3 * (1 + sin( M_PI * 2  * (i + 50) / 100)) / 2;
+  Da4->Value[i] = 5.0 * A4 * i / 100;
+}
+
+ _Obj_ Demo-Ge-Subgraphs-Plc-W-DataA1
+classdef Da1 AArray100;
+classdef Da2 AArray100;
+classdef Da3 AArray100;
+classdef Da4 AArray100;
+int i;
+
+for ( i = 0; i < 100; i++) {
+  Da4->Value[i] = 5.0 * A1 * (1 + sin( M_PI * 2 * i / 100)) / 2;
+  Da3->Value[i] = Da4->Value[i] + 5.0 * A2 * (100 - i) / 100;
+  Da2->Value[i] = Da3->Value[i] + 5.0 * A3 * (1 + 
+  sin( M_PI * 2  * (i + 50) / 100)) / 2;
+  Da1->Value[i] = Da2->Value[i] + 5.0 * A4 * i / 100;
+}
+
+ _Obj_ Demo-Ge-Subgraphs-Plc-W-DataA2
+OA2 = 2.5 * A1;
+OA3 += 0.3 * A1;
+if ( OA3 > M_PI * 2)
+  OA3 -= M_PI * 2;
+OA4 += OA2 * ( 1.0 + 0.7 * sin( OA3));
+if ( OA4 > M_PI * 2)
+  OA4 -= M_PI * 2;
+
+OA1 = 50.0 + 50.0 * sin( OA4);
  _Obj_ Demo-Process-LevelControl-Simulate-W-CArit5
 OA1 += 0.001 * A1 * A2;
 if ( OA1 > 2)
@@ -137,9 +176,9 @@ OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
 OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
  _Obj_ Demo-Components-ABB-Sim-W-P1-W-MotorSim-W-Sensor-W-CArit9
 OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
- _Obj_ Demo-Process-LevelControl-Simulate-W-P1-W-Motor-W-Sensor-W-CArit9
-OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
  _Obj_ Demo-Process-LevelControl-Simulate-W-LC1-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+ _Obj_ Demo-Process-LevelControl-Simulate-W-P1-W-Motor-W-Sensor-W-CArit9
 OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
  _Obj_ Demo-Process-TemperatureControl-Plc-W-CombustionAirFan-W-ACS800-W-Parameter
 if ( d1 && !d2 && !d3) {
@@ -205,13 +244,13 @@ else {
   OI2 = 0;
   OI3 = 0;
 } 
- _Obj_ Demo-Process-TemperatureControl-Simulate-W-AirFan-W-MotorSim-W-Sensor-W-CArit9
-OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
- _Obj_ Demo-Process-TemperatureControl-Simulate-W-GasFan-W-MotorSim-W-Sensor-W-CArit9
-OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
  _Obj_ Demo-Process-TemperatureControl-Simulate-W-TemperatureSensor-W-CArit9
 OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
  _Obj_ Demo-Process-TemperatureControl-Simulate-W-AirPressureSensor-W-CArit9
 OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
  _Obj_ Demo-Process-TemperatureControl-Simulate-W-GasPressureSim-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+ _Obj_ Demo-Process-TemperatureControl-Simulate-W-AirFan-W-MotorSim-W-Sensor-W-CArit9
+OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
+ _Obj_ Demo-Process-TemperatureControl-Simulate-W-GasFan-W-MotorSim-W-Sensor-W-CArit9
 OA1 = (float)rand() / RAND_MAX * A1 * 2 - A1;
