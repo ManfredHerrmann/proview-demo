@@ -13,8 +13,8 @@ Volume directory $DirectoryVolume 254.254.254.253
       Attr BusNumber = 999
     EndBody
     Object DemoNode NodeConfig 10 11-MAY-2006 15:40:05.54
-      Body RtBody 14-DEC-2015 08:00:55.81
-        Attr NodeName = "aristotle"
+      Body RtBody 01-FEB-2017 16:27:57.10
+        Attr NodeName = "pwr55-1"
         Attr OperatingSystem = 64
         Attr Address = "127.0.0.1"
       EndBody
@@ -24,6 +24,27 @@ Volume directory $DirectoryVolume 254.254.254.253
       EndObject
       Object Distribute Distribute 12 11-MAY-2006 15:40:05.54
         Body DevBody 05-MAR-2008 11:22:55.46
+        EndBody
+      EndObject
+    EndObject
+  EndObject
+  Object Build BuildConfig 14 03-FEB-2017 15:14:34.90
+    Body DevBody 03-FEB-2017 15:14:31.33
+    EndBody
+    Object pop BuildDirectory 16 03-FEB-2017 15:16:25.51
+      Body DevBody 03-FEB-2017 15:16:47.60
+        Attr Directory = "$pwrp_pop"
+      EndBody
+      Object pwg_exe BuildCopy 15 03-FEB-2017 17:03:59.87
+        Body DevBody 03-FEB-2017 15:17:00.86
+          Attr Source = "*.pwg"
+          Attr Target = "$pwrp_exe/"
+        EndBody
+      EndObject
+      Object pwg_web BuildCopy 17 03-FEB-2017 17:03:44.51
+        Body DevBody 03-FEB-2017 17:03:48.76
+          Attr Source = "*.pwg"
+          Attr Target = "$pwrp_web/"
         EndBody
       EndObject
     EndObject

@@ -10,6 +10,5 @@ Demo-Process-LevelControl-Simulate <t><t><link> plcw_000_254_254_200_000047e2,,$
 Demo-Process-TemperatureControl-Plc <t><t><link> plcw_000_254_254_200_0000d857,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
 Demo-Process-TemperatureControl-Simulate <t><t><link> plcw_000_254_254_200_0000d908,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
 Demo-Ge-Subgraphs-Plc <t><t><link> plcw_000_254_254_200_00043473,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
-Demo-Ge-ColorThemes-Plc <t><t><link> plcw_000_254_254_200_00052e6b,,$pwrp_load/xtthelp_000_254_254_200_plc.dat
 </topic>
 
