@@ -718,3 +718,20 @@ The upper trend shows the measured temperature (orange) and the setvalue (green)
 The lower curve shows the output from the PID controller (yellow), and the
 number of burning burners (blue).
 </topic>
+
+<topic> Ge_ColorThemes
+Ge ColorThemes
+
+Select a color theme by pressing a push button.
+
+</topic>
+
+<topic> Misc_PingPong
+PingPong
+
+Open the settings dialog from File/Settings in the menu.
+
+Set Mode to 'One Player' and try to return the ball by moving the right racket
+with the right slider.
+
+</topic>

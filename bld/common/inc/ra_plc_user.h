@@ -5,4 +5,5 @@
 #include "pwr_othermanufacturerclasses.h"
 #include "pwr_inorclasses.h"
 #include "pwr_siemensclasses.h"
- 
+#include "pwr_miscellaneousclasses.h"
+#include "misc.h" 
