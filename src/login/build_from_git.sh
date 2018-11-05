@@ -101,6 +101,9 @@ echo "*"
 cp $pwr_lib/pwr_rt_client.jar $pwrp_web/
 cp $pwr_lib/pwr_jop.jar $pwrp_web/
 cp $pwr_lib/pwr_jopg.jar $pwrp_web/
+if [ "$pwr_web" != "" ]; then
+  cp $pwr_web/* $pwrp_web/
+fi
 
 #echo "*"
 #echo "* Load directory volume"
